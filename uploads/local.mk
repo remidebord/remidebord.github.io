@@ -1,0 +1,7 @@
+TARGET ?= BLUEPILL
+
+# Enable button for bootloader entry after reset
+DEFS += -DHAVE_BUTTON=1
+#DEFS += -DBUTTON_ACTIVE_HIGH=1
+#DEFS += -DBUTTON_GPIO_PORT=GPIOB
+#DEFS += -DBUTTON_GPIO_PIN=GPIO2
