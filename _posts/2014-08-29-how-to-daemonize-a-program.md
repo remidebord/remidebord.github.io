@@ -2,14 +2,13 @@
 layout: post
 title: "How to daemonize a program [Linux]"
 ---
-
 On Linux, there are "two" ways to daemonize a program. The old way which is the most standard and can be applied to every distributions, with using [start-stop-daemon](http://manpages.ubuntu.com/manpages/lucid/fr/man8/start-stop-daemon.8.html). And a more recent way using [Upstart](http://upstart.ubuntu.com/) which is a replacement for System V init, available on Ubuntu, and which provide a lot of interesting features (like respawn and events).
-## First method: start-stop-daemon
+### First method: start-stop-daemon
 Open a text editor.
 ```bash
 nano /home/user/myService
 ```
-Then, paste this code and adapt if for your needs, by modifying these four fields, DAEMON, DEAMON_OPT, DAEMON_USER and DEAMON_NAME.
+Then, paste this code and adapt if for your needs, by modifying these four fields, `DAEMON`, `DEAMON_OPT`, `DAEMON_USER` and `DEAMON_NAME`.
 ```bash
 #! /bin/sh -e
 
@@ -55,7 +54,7 @@ case "$1" in
                 ;;
 
         status)
-                status_of_proc "$DEAMON_NAME" "$DAEMON" "system-wide $DEAMON_NAME" &amp;&amp; exit 0 || exit $?
+                status_of_proc "$DEAMON_NAME" "$DAEMON" "system-wide $DEAMON_NAME" && exit 0 || exit $?
                 ;;
         *)
                 echo "Usage: /etc/init.d/$DEAMON_NAME {start|stop|force-stop|restart|reload|force-reload|status}"
@@ -84,15 +83,15 @@ If you want to launch your service at startup, you have just to create some init
 ```bash
 sudo update-rc.d myService defaults
  Adding system startup for /etc/init.d/myService ...
-   /etc/rc0.d/K20myService -&gt; ../init.d/myService 
-   /etc/rc1.d/K20myService -&gt; ../init.d/myService
-   /etc/rc6.d/K20myService -&gt; ../init.d/myService
-   /etc/rc2.d/S20myService -&gt; ../init.d/myService
-   /etc/rc3.d/S20myService -&gt; ../init.d/myService
-   /etc/rc4.d/S20myService -&gt; ../init.d/myService
-   /etc/rc5.d/S20myService -&gt; ../init.d/myService</pre>
+   /etc/rc0.d/K20myService -> ../init.d/myService 
+   /etc/rc1.d/K20myService -> ../init.d/myService
+   /etc/rc6.d/K20myService -> ../init.d/myService
+   /etc/rc2.d/S20myService -> ../init.d/myService
+   /etc/rc3.d/S20myService -> ../init.d/myService
+   /etc/rc4.d/S20myService -> ../init.d/myService
+   /etc/rc5.d/S20myService -> ../init.d/myService
 ```
-## Second method: Upstart
+### Second method: Upstart
 In order to prevent any access permissions problems we use a copy of an existing script, the most common is rcS.conf.
 ```bash
 sudo cp /etc/init/rcS.conf /etc/init/myService.conf
@@ -122,6 +121,7 @@ respawn
 respawn limit unlimited
 ```
 Adapt the program path, save it, that's all !
+
 The service can be start or stop manually with these commands.
 ```bash
 sudo start myService

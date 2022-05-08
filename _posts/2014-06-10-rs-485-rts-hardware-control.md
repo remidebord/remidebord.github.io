@@ -2,7 +2,6 @@
 layout: post
 title: "RS-485 RTS hardware control [Windows]"
 ---
-
 ![TEK0002](../../../uploads/TEK0002.jpg)
 
 If you want to use the serial port for RS-485 communication, you will need to configure it. Under windows the configuration is pretty easy, just use

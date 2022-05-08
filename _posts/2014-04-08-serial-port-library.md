@@ -2,7 +2,6 @@
 layout: post
 title: "Serial Port Library [Windows/Linux]"
 ---
-
 ![helloworld](../../../uploads/helloworld.png)
 
 In many projects we need to communicate with external equipment, and most of time this communication is done, through a serial port. In order to reduce development time or make easier the prototyping step, i have decided to write my own serial port library and share it ~~with the universe~~.
