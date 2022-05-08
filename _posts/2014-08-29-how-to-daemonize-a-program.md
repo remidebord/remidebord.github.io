@@ -5,8 +5,8 @@ layout: post
 On Linux, there are "two" ways to daemonize a program. The old way which is the most standard and can be applied to every distributions, with using [start-stop-daemon](http://manpages.ubuntu.com/manpages/lucid/fr/man8/start-stop-daemon.8.html). And a more recent way using [Upstart](http://upstart.ubuntu.com/) which is a replacement for System V init, available on Ubuntu, and which provide a lot of interesting features (like respawn and events).
 ## First method: start-stop-daemon
 Open a text editor.
-```
-nano /home/user/myService</pre>
+```bash
+nano /home/user/myService
 ```
 Then, paste this code and adapt if for your needs, by modifying these four fields, DAEMON, DEAMON_OPT, DAEMON_USER and DEAMON_NAME.
 ```bash
@@ -64,16 +64,16 @@ esac
 exit 0
 ```
 Once done, save it, and copy it in the init.d directory.
-```
+```bash
 sudo cp /home/user/myService /etc/init.d/
 ```
 Then change the access permissions.
-```
+```bash
 sudo chmod +x /etc/init.d/myService
 ```
 That's all !
 We can test our service (daemon) by using manually commands (start, stop or restart).
-```
+```bash
 sudo /etc/init.d/myService start
 * Starting system myProgram Daemon
 sudo /etc/init.d/myService stop
@@ -93,11 +93,11 @@ sudo update-rc.d myService defaults
 ```
 ## Second method: Upstart
 In order to prevent any access permissions problems we use a copy of an existing script, the most common is rcS.conf.
-```
+```bash
 sudo cp /etc/init/rcS.conf /etc/init/myService.conf
 ```
 Then open it,
-```
+```bash
 sudo nano /etc/init/myService.conf
 ```
 and replace all the code by this skeleton.
@@ -122,7 +122,7 @@ respawn limit unlimited
 ```
 Adapt the program path, save it, that's all !
 The service can be start or stop manually with these commands.
-```
+```bash
 sudo start myService
  myService start/running, process 1972
 
@@ -130,10 +130,10 @@ sudo stop myService
  myService stop/waiting
 ```
 If you want to know the status of your service just run this.
-```
+```bash
 initctl list | grep myService
 ```
 Note: by default the standard outputs stream (stdout and stderr) of the program are put in a log file which have the name of the service and situate in:
-```
+```bash
 /var/log/upstart/myService.log
 ```
