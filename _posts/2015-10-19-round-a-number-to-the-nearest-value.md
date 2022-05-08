@@ -9,7 +9,7 @@ int round(int number, int multiple)
     int half = multiple/ 2;
     int result = 0;
 
-    if(number &lt; 0) half = -half;
+    if(number < 0) half = -half;
 
     result = ((number + half) - ((number + half) % multiple));
 

@@ -3,6 +3,7 @@ layout: post
 title: "Add an extension to PHP [WampServer]"
 ---
 For an ongoing project, i need to add an extension (timezonedb) to PHP. The First thing to do, is to get the extension already built (.dll), in my case i use this [link](https://pecl.php.net/package/timezonedb/2016.1/windows) and i choose the one which match with my configuration (PHP 5.5, Thread Safety enabled, 32bits x86).
+
 You can find your configuration with `phpinfo()`.
 
 Once this step done, you have to paste this file in the right repertory:

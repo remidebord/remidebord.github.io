@@ -2,7 +2,8 @@
 layout: post
 title: "How to daemonize a program [Linux]"
 ---
-On Linux, there are "two" ways to daemonize a program. The old way which is the most standard and can be applied to every distributions, with using [start-stop-daemon](http://manpages.ubuntu.com/manpages/lucid/fr/man8/start-stop-daemon.8.html). And a more recent way using [Upstart](http://upstart.ubuntu.com/) which is a replacement for System V init, available on Ubuntu, and which provide a lot of interesting features (like respawn and events).
+On Linux, there are "two" ways to daemonize a program. The old way which is the most standard and can be applied to every distributions, with using [start-stop-daemon](http://manpages.ubuntu.com/manpages/lucid/fr/man8/start-stop-daemon.8.html).
+And a more recent way using [Upstart](http://upstart.ubuntu.com/) which is a replacement for System V init, available on Ubuntu, and which provide a lot of interesting features (like respawn and events).
 ### First method: start-stop-daemon
 Open a text editor.
 ```bash
@@ -101,7 +102,7 @@ Then open it,
 sudo nano /etc/init/myService.conf
 ```
 and replace all the code by this skeleton.
-```
+```bash
 # Upstart script skeleton
 description "myService daemon"
 author "Name Firstname name.firstname[at]domain.com"
