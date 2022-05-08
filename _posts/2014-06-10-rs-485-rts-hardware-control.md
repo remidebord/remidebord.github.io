@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RS-485 RTS hardware control"
+title: "RS-485 RTS hardware control [Windows]"
 ---
 
 ![TEK0002](../../../uploads/TEK0002.jpg)

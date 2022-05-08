@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Serial to TCPIP – Multi clients [Linux]"
 ---
 
 Two weeks ago, i needed to find a way to send/receive serial data over ethernet using TCP/IP protocol, with multi clients support under Linux. All clients can send datas to the serial port, and data from the serial port are send to every clients.

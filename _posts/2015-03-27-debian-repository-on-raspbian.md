@@ -4,6 +4,7 @@ title: "Debian repository on Raspbian"
 ---
 
 On a Rasberry Pi 2, if you need packages which is not includes inside Raspbian repository, you can use debian repository (Wheezy for now).
+
 Use these command lines to add Debian Wheezy repository
 ```bash
 echo "deb http://ftp.debian.org/debian/ wheezy main" > backports.list
@@ -13,7 +14,7 @@ sudo mv backports.list /etc/apt/sources.list.d
 When it's done, try to make a sudo apt-get update. Usually, you can see that APT need to register the new repositories and request to add public keys.
 First install a list of key server,
 ```bash
-<pre">sudo apt-get install debian-keyring
+sudo apt-get install debian-keyring
 ```
 Next register the keys provide by APT (replace the key 8B48AD6246925553 by yours),
 ```bash
