@@ -56,7 +56,8 @@ minima:
 theme: minima
 
 # Comments
-disqus_shortname: remidebord-github-io
+disqus:
+  shortname: remidebord-github-io
 
 plugins:
  - jekyll-feed
