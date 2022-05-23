@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Remove Unity [Ubuntu 14.04]"
+comments: true
 ---
 If you want to come back to the &laquo;&nbsp;old&nbsp;&raquo; desktop in ubuntu, just install GNOME classic, with this command line:
 ```bash

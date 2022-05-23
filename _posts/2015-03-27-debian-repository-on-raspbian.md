@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Debian repository on Raspbian"
+comments: true
 ---
 On a Rasberry Pi 2, if you need packages which is not includes inside Raspbian repository, you can use debian repository (Wheezy for now).
 

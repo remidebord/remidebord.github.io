@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Disable hibernate and reduce virtual memory [Windows]"
+comments: true
 ---
 After a fresh install of Windows on a SSD, here is some tips which permit to earn some disk space and permit to not voids the [warranty](http://www.makeuseof.com/tag/disable-hibernate-ssd-warranty-purposes/).
 
