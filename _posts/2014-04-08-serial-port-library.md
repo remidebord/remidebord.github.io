@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Serial Port Library [Windows/Linux]"
+comments: true
 ---
 ![helloworld](../../../uploads/helloworld.png)
 
