@@ -94,6 +94,11 @@ button:hover {
     border-color: white;
 }
 
+.site-header {
+    border-top: none;
+    border-bottom: 1px solid #333;
+}
+
 .site-title, .site-title:visited {
     font-size: inherit;
     font-weight: inherit;
@@ -103,6 +108,10 @@ button:hover {
 
 .site-nav .page-link {
     color: #0aa;
+}
+
+.site-footer {
+    border-top: 1px solid #333;
 }
 
 .post-meta {
