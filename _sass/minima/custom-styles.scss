@@ -22,13 +22,11 @@ body {
 }
 
 html, body, footer {
-    /* Oldschool font (IBM VGA8) */
     font-family: 'IBM VGA 8x16', monospace;
     font-size: 16px;
     color: #999;
     
     line-height: 1;
-    text-align: justify;
     
     -webkit-text-size-adjust: none;
     -ms-text-size-adjust: 100%;
@@ -161,6 +159,10 @@ button:hover {
 
 .social-media-list li a, .pagination li a {
     border: none;
+}
+
+.file-separator {
+    color: #333;
 }
 
 ::-webkit-scrollbar {
