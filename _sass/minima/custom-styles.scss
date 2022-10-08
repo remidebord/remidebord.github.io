@@ -98,7 +98,7 @@ button:hover {
 
 .site-header {
     border-top: none;
-    border-bottom: 1px solid #333;
+    border-bottom: none /* 1px solid #333 */;
 }
 
 .site-title, .site-title:visited {
@@ -113,7 +113,7 @@ button:hover {
 }
 
 .site-footer {
-    border-top: 1px solid #333;
+    border-top: none /* 1px solid #333 */;
 }
 
 .post-meta {
@@ -123,6 +123,10 @@ button:hover {
 .post-title, .post-content h1 {
     font-size: inherit;
     letter-spacing: inherit;
+}
+
+.post-title {
+    border-bottom: 1px solid #333;
 }
 
 .post-content h3 {
