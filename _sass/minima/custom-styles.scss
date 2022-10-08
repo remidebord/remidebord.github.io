@@ -55,32 +55,18 @@ h3 {
 }
 
 pre, textarea {
+    font-size: 13px;
     display: block;
     margin: 0 0 10px;
-    
-    font-size: 13px;
-
-    word-break: break-all;
-    word-wrap: break-word;
-    
-    background-color: #0C0C0C;
-    color: #717171;
-    
-    /* New line when the line length is superior to the pre width */
-    white-space: pre-wrap;
-    white-space: -moz-pre-wrap;
-    white-space: -pre-wrap;
-    white-space: -o-pre-wrap;
 }
 
-code {
-    font-size: 13px;
-
+pre, code, textarea {    
     word-break: break-all;
     word-wrap: break-word;
     
     background-color: #0C0C0C;
     color: #717171;
+    border: none;
     
     /* New line when the line length is superior to the pre width */
     white-space: pre-wrap;
