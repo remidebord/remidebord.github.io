@@ -31,9 +31,9 @@ layout: default
         post.title.size = {{ post.title.size }}
         
         {% assign max_separators = 50 %}
-        {% assign number = max_separators - post.title.size %}
+        {% assign number = max_separators | minus: post.title.size %}
         
-        number = {{ max_separators - post.title.size }}
+        number = {{ max_separators | minus: post.title.size }}
         number = {{ number }}
         
         <span class="file-separator">
