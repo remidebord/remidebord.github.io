@@ -25,12 +25,17 @@ html, body, footer {
 }
 
 a {
-    color: /*#00FF00*/ /*#5ff*/ #0aa;
+    color: #0aa;
     text-decoration: none;
 }
 
 a:hover {
     color: #ff5;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #0aa;
 }
 
 hr {
@@ -44,12 +49,10 @@ hr {
 h3 {
     font-size: 16px;
     font-weight: normal;
-    color: /*#5f5*/ #0a0; /* Green */
+    color: #0a0; /* Green */
 }
 
-/* Code, Text area */
-
-pre, textarea {
+pre, code, textarea {
     display: block;
     padding: 9.5px;
     margin: 0 0 10px;
@@ -59,15 +62,8 @@ pre, textarea {
     word-break: break-all;
     word-wrap: break-word;
     
-    /*
-    background-color: #f5f5f5;
-    border: 1px solid #ccc;
-    border-radius: 2px;
-    color: #333;
-    */
-    
-    background-color: /*#181818*/ #0C0C0C;
-    color: /*#fff*/ #717171;
+    background-color: #0C0C0C;
+    color: #717171;
     
     /* New line when the line length is superior to the pre width */
     white-space: pre-wrap;
@@ -96,6 +92,30 @@ button:hover {
     border-width: 1px;
     border-style: solid;
     border-color: white;
+}
+
+.site-title, .site-title:visited {
+    font-size: inherit;
+    font-weight: inherit;
+    letter-spacing: initial;
+    color: #0aa;
+}
+
+.site-nav .page-link {
+    color: #0aa;
+}
+
+.post-meta {
+    font-size: inherit;
+}
+
+.post-title, .post-content h1 {
+    font-size: inherit;
+    letter-spacing: inherit;
+}
+
+.footer-col-wrapper, .social-links {
+    font-size: inherit;
 }
 
 ::-webkit-scrollbar {
