@@ -75,6 +75,10 @@ pre, code, textarea {
     white-space: -o-pre-wrap;
 }
 
+code {
+    padding: 0px;
+}
+
 button, input {
     font-family: IBMVGA8, monospace;
     font-size: 16px;
@@ -95,6 +99,10 @@ button:hover {
     border-width: 1px;
     border-style: solid;
     border-color: white;
+}
+
+li {
+    margin-bottom: 3px;
 }
 
 .site-header {
