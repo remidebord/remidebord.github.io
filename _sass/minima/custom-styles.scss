@@ -105,6 +105,14 @@ li {
     margin-bottom: 3px;
 }
 
+table td {
+    border: 0px;
+}
+
+table th, table td {
+    padding: 0px;
+}
+
 .site-header {
     border-top: none;
     border-bottom: none /* 1px solid #333 */;
