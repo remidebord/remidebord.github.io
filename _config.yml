@@ -1,4 +1,4 @@
-title: [Blog]
+title: "[Blog]"
 author:
   name: Rémi Debord
   email: remidebord@hotmail.fr
@@ -16,7 +16,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: RmiDebord1
+    twitter: remi_debord
     github:  remidebord
     # devto: jekyll
     # dribbble: jekyll
