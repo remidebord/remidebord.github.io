@@ -74,6 +74,22 @@ pre, code, textarea {
     white-space: -o-pre-wrap;
 }
 
+code {
+    font-size: 13px;
+
+    word-break: break-all;
+    word-wrap: break-word;
+    
+    background-color: #0C0C0C;
+    color: #717171;
+    
+    /* New line when the line length is superior to the pre width */
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+}
+
 button, input {
     font-family: IBMVGA8, monospace;
     font-size: 16px;
@@ -133,6 +149,10 @@ button:hover {
 
 .post-content h3 {
     font-size: inherit;
+}
+
+.highlight {
+    background: inherit;
 }
 
 .footer-col-wrapper, .social-links {
