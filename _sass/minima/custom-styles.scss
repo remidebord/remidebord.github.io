@@ -18,6 +18,8 @@ html, body, footer {
     font-size: 16px;
     color: #999;
     
+    line-height: 1;
+    
     -webkit-text-size-adjust: none;
     -ms-text-size-adjust: 100%;
     -moz-text-size-adjust: none;
@@ -123,8 +125,16 @@ button:hover {
     letter-spacing: inherit;
 }
 
+.post-content h3 {
+    font-size: inherit;
+}
+
 .footer-col-wrapper, .social-links {
     font-size: inherit;
+}
+
+.social-media-list li a, .pagination li a {
+    border: none;
 }
 
 ::-webkit-scrollbar {
