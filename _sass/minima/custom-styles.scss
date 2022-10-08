@@ -54,9 +54,8 @@ h3 {
     color: #0a0; /* Green */
 }
 
-pre, code, textarea {
+pre, textarea {
     display: block;
-    padding: 9.5px;
     margin: 0 0 10px;
     
     font-size: 13px;
@@ -153,6 +152,7 @@ button:hover {
 
 .highlight {
     background: inherit;
+    margin-bottom: 0px;
 }
 
 .footer-col-wrapper, .social-links {
