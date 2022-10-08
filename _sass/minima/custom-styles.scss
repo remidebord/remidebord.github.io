@@ -1,11 +1,20 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
+
+// @font-face {
+//    font-family: 'IBMVGA8';
+//    src: url(./fonts/PxPlus_IBM_VGA8.ttf) format('truetype');
+//    font-weight: normal;
+//    font-style: normal;
+//}
+
+
 @font-face {
-    font-family: 'IBMVGA8';
-    src: url(./fonts/PxPlus_IBM_VGA8.ttf) format('truetype');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'IBM VGA 8x16';
+  src: url(./fonts/WebPlus_IBM_VGA_8x16.woff) format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
 
 body {        
@@ -14,11 +23,12 @@ body {
 
 html, body, footer {
     /* Oldschool font (IBM VGA8) */
-    font-family: IBMVGA8, monospace;
+    font-family: 'IBM VGA 8x16', monospace;
     font-size: 16px;
     color: #999;
     
     line-height: 1;
+    text-align: justify;
     
     -webkit-text-size-adjust: none;
     -ms-text-size-adjust: 100%;
