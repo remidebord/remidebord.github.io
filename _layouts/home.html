@@ -23,10 +23,10 @@ layout: default
     {%- endif -%}
     <table class="post-list">
     <tbody>
-      <tr>
+      
       {%- assign date_format = site.minima.date_format | default: "%Y-%m-%d" -%}
       {%- for post in posts -%}
-      
+      <tr>
       <td>
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         
@@ -45,8 +45,9 @@ layout: default
           {{ post.excerpt }}
         {%- endif -%}
       </td>
+      </tr>
       {%- endfor -%}
-    </tr>
+    
     </tbody>
     </table>
 
