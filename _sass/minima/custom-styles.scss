@@ -151,8 +151,12 @@ button:hover {
 }
 
 .highlight {
-    background: inherit;
-    margin-bottom: 0px;
+    background-color: #0C0C0C;
+    border: none;
+}
+
+.highlighter-rouge .highlight {
+    background-color: #0C0C0C;
 }
 
 .footer-col-wrapper, .social-links {
