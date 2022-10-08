@@ -27,9 +27,8 @@ layout: default
       <li>
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         
-        {% capture number %}{{ post.title | size }}{% endcapture %}
         {% assign max_separators = 64 %}
-        {% number = max_separators - number %}
+        {% assign number = max_separators - post.title.size %}
         <span class="file-separator">
         {%- for i in (1..number) -%}
         _
