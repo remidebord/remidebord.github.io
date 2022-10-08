@@ -135,6 +135,11 @@ table th, table td {
     border-top: none /* 1px solid #333 */;
 }
 
+.post-link:hover {
+    color: #ff5;
+    text-decoration: none;
+}
+
 .post-meta {
     font-size: inherit;
     margin-bottom: 0px;
