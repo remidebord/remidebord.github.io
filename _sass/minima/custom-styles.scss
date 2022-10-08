@@ -118,13 +118,17 @@ button:hover {
 
 .post-meta {
     font-size: inherit;
-    margin-bottom: 15px;
-    margin-top: 15px;
+    margin-bottom: 0px;
+    margin-top: 0px;
 }
 
 .post-title, .post-content h1 {
     font-size: inherit;
     letter-spacing: inherit;
+}
+
+.post-title {
+    border: none;
 }
 
 .post-content h3 {
