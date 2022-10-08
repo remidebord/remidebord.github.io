@@ -21,27 +21,34 @@ layout: default
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
-    <ul class="post-list">
+    <table class="post-list">
+    <tbody>
+      <tr>
       {%- assign date_format = site.minima.date_format | default: "%Y-%m-%d" -%}
       {%- for post in posts -%}
-      <li>
+      
+      <td>
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         
-        {% assign max_separators = 60 %}
+        {% assign max_separators = 80 %}
         {% assign number = max_separators | minus: post.title.size %}
         <span class="file-separator">
         {%- for i in (1..number) -%}
         _
         {%- endfor -%}
         </span>
-        
+      </td>
+      
+      <td>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
-      </li>
+      </td>
       {%- endfor -%}
-    </ul>
+    </tr>
+    </tbody>
+    </table>
 
     {% if site.paginate %}
       <div class="pager">
