@@ -32,6 +32,10 @@ layout: default
         
         {% assign max_separators = 50 %}
         {% assign number = max_separators - post.title.size %}
+        
+        number = {{ max_separators - post.title.size }}
+        number = {{ number }}
+        
         <span class="file-separator">
         {%- for i in (1..number) -%}
         _
