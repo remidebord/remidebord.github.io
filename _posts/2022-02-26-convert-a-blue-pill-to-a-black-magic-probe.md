@@ -19,7 +19,7 @@ Here is what you will need in order to turn the Blue pill into a Black Magic Pro
 - STLink v2 (cheap clones are availables on eBay or Aliexpress)
 - Jumper wires Female/Female (x4)
 
-Note: If you dont have a STLink, you could follow another How-to which use a USB to Serial converter [1](https://paramaggarwal.medium.com/converting-an-stm32f103-board-to-a-black-magic-probe-c013cf2cc38c#.btn6lnwqe) or if you have a useless STLink clone, this one could be reflashed as a Black Magic Probe [2](http://blog.linuxbits.io/2016/02/15/cheap-chinese-st-link-v-2-programmer-converted-to-black-magic-probe-debugger/)
+Note: If you dont have a STLink, you could follow another How-to which use a USB to Serial converter [\[1\]](https://paramaggarwal.medium.com/converting-an-stm32f103-board-to-a-black-magic-probe-c013cf2cc38c#.btn6lnwqe) or if you have a useless STLink clone, this one could be reflashed as a Black Magic Probe [\[2\]](http://blog.linuxbits.io/2016/02/15/cheap-chinese-st-link-v-2-programmer-converted-to-black-magic-probe-debugger/)
 
 For the software part you will need the two binary files attached below:
 - [STM32 STLink utility](http://remidebord.fr/blog/uploads/STM32_ST-LINK_Utility_v3.6.0.exe)
