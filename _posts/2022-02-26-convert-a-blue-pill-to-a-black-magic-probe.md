@@ -11,7 +11,7 @@ I found a project called [Black Magic Probe](https://github.com/blackmagic-debug
 Main advantage of this probe is that this one is open source, maintained, and can be flashed on a cheap [Blue pill](https://www.ebay.com/itm/203775479156?hash=item2f71f70d74:g:BMcAAOSwDsVhzWZT) (~5€) even if you have clone.
 In the next steps i will explain how you can flash a Blue Pill in order to obtain a "BMP".
 
-![bmpm_V2_1c_nocap_iso_1024x1024](../../../uploads/bmpm_V2_1c_nocap_iso_1024x1024.jpg)
+[![bmpm_V2_1c_nocap_iso_1024x1024](../../../uploads/bmpm_V2_1c_nocap_iso_1024x1024.jpg)](../../../uploads/bmpm_V2_1c_nocap_iso_1024x1024.jpg)
 
 ### Pre-requisites
 Here is what you will need in order to turn the Blue pill into a Black Magic Probe:
