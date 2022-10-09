@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Convert a Blue pill to a Black Magic Probe"
+author: 'Rémi Debord'
 comments: true
 ---
 ### Introduction 

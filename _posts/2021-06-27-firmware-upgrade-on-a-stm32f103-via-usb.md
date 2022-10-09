@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Firmware upgrade on a STM32F103 via USB (DFU)"
+author: 'Rémi Debord'
 comments: true
 ---
 ### Introduction

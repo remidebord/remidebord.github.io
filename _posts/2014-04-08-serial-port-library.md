@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Serial Port Library [Windows/Linux]"
+author: 'Rémi Debord'
 comments: true
 ---
 ![helloworld](../../../uploads/helloworld.png)

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Round a number to the nearest value [C]"
+author: 'Rémi Debord'
 comments: true
 ---
 This method is known as round to nearest via modulus division, and permit to round to the nearest multiple of the number.
