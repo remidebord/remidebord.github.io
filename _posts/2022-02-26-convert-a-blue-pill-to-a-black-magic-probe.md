@@ -32,27 +32,27 @@ TODO: explain how to get/build latest version.
 ### Wiring
 No mystery here, we have to use the four pins availables (SWD + 3V3 + GND) on the Blue pill, and connect it to the STLink.
 
-![bluepill_converted_to_magic_prob](../../../uploads/bluepill_converted_to_magic_probe.jpg)
+[![bluepill_converted_to_magic_prob](../../../uploads/bluepill_converted_to_magic_probe.jpg)](../../../uploads/bluepill_converted_to_magic_probe.jpg)
 
 ### Flashing
 Open STLink utility, click on "Connect to the target" in order to see if the STLink is recognized and could access to STM32F103 memory.
 
-![stlink_stm32f103_connection](../../../uploads/stlink_stm32f103_connection.png)
+[![stlink_stm32f103_connection](../../../uploads/stlink_stm32f103_connection.png)](../../../uploads/stlink_stm32f103_connection.png)
 
 Next, go to "Target", "Program...", select the binary blakcmagic_dfu.bin, set the start address 0x08000000 and click on Start (after the flashing, a reset occur and LED on Blue pill should blink).
 
-![stlink_flash_blackmagic_dfu](../../../uploads/stlink_flash_blackmagic_dfu.png)
+[![stlink_flash_blackmagic_dfu](../../../uploads/stlink_flash_blackmagic_dfu.png)](../../../uploads/stlink_flash_blackmagic_dfu.png)
 
 Same thing for blackmagic.bin but the start address is 0x08002000.
 
-![stlink_flash_blackmagic](../../../uploads/stlink_flash_blackmagic.png)
+[![stlink_flash_blackmagic](../../../uploads/stlink_flash_blackmagic.png)](../../../uploads/stlink_flash_blackmagic.png)
 
 ### Test (Smoky!)
 Once done, remove jumper wires and plug the blue pill to the computer (via the micro USB port), the board will be recognized as a Black Magic Probe 1.6X.
 
 If you look at the peripheral manager, two devices should appear.
 
-![bpm_peripheral_manager](../../../uploads/bpm_peripheral_manager.png)
+[![bpm_peripheral_manager](../../../uploads/bpm_peripheral_manager.png)](../../../uploads/bpm_peripheral_manager.png)
 
 Well done, and thanks to the Black Magic Probe authors, now you can use your Blue pill in order to debug almost any ARM chips. SWD pins are the same than the ones used in order to flash it.
 JTAG is available on PA13 (JTMS), PA14 (JTCK), PA15 (JTDI) and PB3 (JTDO), see this [readme.md](https://github.com/blackmagic-debug/blackmagic/blob/master/src/platforms/swlink/README.md) for more details.

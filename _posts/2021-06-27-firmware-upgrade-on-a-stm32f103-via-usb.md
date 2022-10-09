@@ -9,7 +9,7 @@ When devices are on field, users should be able to update it without debugger, a
 
 Here we will focus on a bootloader ([dapboot](https://github.com/devanlai/dapboot) ) which will permit to reflash a firwmware over USB via the DFU protocol (Device Firmware Upgrade, see [1](https://www.usb.org/sites/default/files/DFU_1.1.pdf"), [2](http://dfu-util.sourceforge.net/) ) on a "blue pill" (STM32F103).
 
-![stm32f103c8t6_pinout2](../../../uploads/stm32f103c8t6_pinout2.png)
+[![stm32f103c8t6_pinout2](../../../uploads/stm32f103c8t6_pinout2.png)](../../../uploads/stm32f103c8t6_pinout2.png)
 
 ### Build the bootloader
 Sources are availables at [https://github.com/devanlai/dapboot](https://github.com/devanlai/dapboot) and could be obtained with the command:
@@ -38,11 +38,11 @@ Build operation will provide a file named `dapboot.bin` which will be used on th
 ### Flash the bootloader
 In pre-requisite of this step you will need to install STM32 ST-LINK Utility, and connect an ST-Link V2 (or a cheap clone for few bucks on Ebay, Aliexpress, ...) to your Blue pill.
 
-![bluepill_with_stlink](../../../uploads/bluepill_with_stlink.jpg)
+[![bluepill_with_stlink](../../../uploads/bluepill_with_stlink.jpg)](../../../uploads/bluepill_with_stlink.jpg)
 
 Once connections are OK, open STM32 ST-LINK Utility, select "Connect to target", then perform a "Full chip erase", and go to "Target" > "Program..."
 
-![stm32_stlink_flashing](../../../uploads/stm32_stlink_flashing.jpg)
+[![stm32_stlink_flashing](../../../uploads/stm32_stlink_flashing.jpg)](../../../uploads/stm32_stlink_flashing.jpg)
 
 Select the [dapboot.bin](http://remidebord.fr/blog/uploads/dapboot.bin) via "Browse", and trigger the flashing by pressing "Start".
 When the flashing is done you can remove the ST-Link probe.
@@ -52,11 +52,11 @@ Dapboot bootloader is flashed and running, so you can connect a usb cable to the
 
 Windows will detect the device, and if your web browser is running a popup will appear which propose to go to [https://devanlai.github.io/webdfu/dfu-util/](https://devanlai.github.io/webdfu/dfu-util/).
 
-![webdfu_popup](../../../uploads/webdfu_popup.jpg)
+[![webdfu_popup](../../../uploads/webdfu_popup.jpg)](../../../uploads/webdfu_popup.jpg)
 
 The web interface permit to flash any binary via DFU from your browser.
 
-![webdfu](../../../uploads/webdfu.jpg)
+[![webdfu](../../../uploads/webdfu.jpg)](../../../uploads/webdfu.jpg)
 
 1. Select "Connect", choose "Dapboot DFU bootloader".
 2. Go to "Firmware download" box, select the [blinky.bin](http://remidebord.fr/blog/uploads/blinky.bin)  (software built on my side which toggle the LED on PC13 each second).
@@ -73,7 +73,7 @@ If you are using Keil MDK-ARM for development, here is how to proceed:
 1. Go to "Project" > "Options for target ...".
 2. In the "Target" tab, set the start address to 0x8002000 and the size to 0xE000.
 
-![keil_flash_range_cropped](../../../uploads/keil_flash_range_cropped.jpg)
+[![keil_flash_range_cropped](../../../uploads/keil_flash_range_cropped.jpg)](../../../uploads/keil_flash_range_cropped.jpg)
 
 3. Go to "Output" tab and verify that "Create HEX" file is checked.
 4. Close the "Options for target" window and build your application.

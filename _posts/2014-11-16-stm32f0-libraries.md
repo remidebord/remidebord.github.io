@@ -4,7 +4,7 @@ title: "STM32F0 Libraries [mbed like]"
 author: 'Rémi Debord'
 comments: true
 ---
-![STM32 libraries](../../../uploads/DSC_4723_1.jpg)
+[![STM32 libraries](../../../uploads/DSC_4723_1.jpg)](../../../uploads/DSC_4723_1.jpg)
         
 Some applications doesn't require powerful microcontroller, and most of times the examples give by the constructor are more complicated than the application wanted. These libraries are the result of a basic need, which is to design an application with few lines of code like the rock star [mbed](http://www.keil.com/arm/mdk.asp) !
 
