@@ -5,7 +5,7 @@ author: 'Rémi Debord'
 comments: true
 ---
 
-# WSL2 and Ubuntu installation
+### WSL2 and Ubuntu installation
 
 First, install WSL and Windows terminal from Microsoft store.
 Next, install Ubuntu in a specific location (with the export/import trick, as install is always on system disk location).
@@ -40,7 +40,7 @@ wsl
 ```
 or directly by opening a tab in the Windows Terminal.
 
-# Windows Terminal customization
+### Windows Terminal customization
 
 We don't really want to be root each time Ubuntu is started, so lets start with a non super user account (e.g: red), go to Windows Terminal and specify the user in the wsl command line:
 ```
@@ -48,7 +48,7 @@ C:\WINDOWS\system32\wsl.exe -d Ubuntu --user red
 ``` 
 The annoying bell sound could be disabled by unchecking the sound notification in the Advanced tab.
 
-# Build a distribution with Yocto
+### Build a distribution with Yocto
 
 As mentionned in the Yocto documentation it will require some specific packages
 ```
@@ -88,7 +88,7 @@ bitbake core-image-minimal
 It will take around 1h the first time (with 8 cores and 16GB of RAM).
 Note: Images will be located in /build/tmp/deploy/images.
 
-# Run distribution
+### Run distribution
 
 Basically it could be started with QEMU like this:
 ```
@@ -107,7 +107,7 @@ Basically it could be started with QEMU like this:
 -append 'root=/dev/vda rw  mem=256M ip=192.168.7.2::192.168.7.1:255.255.255.0 console=ttyAMA0,115200 '
 ```
 
-# SDK generation
+### SDK generation
 
 As you expect to build user land software or maybe drivers it's necessary to generate a SDK that will contain all the tools needed for the cross compilation.
 ```
@@ -138,11 +138,10 @@ Before building your applications, environment source will be required:
 ```
 . /home/red/sdk/qemuarm64/environment-setup-cortexa57-poky-linux
 ```
-# Misc
-## Useful Git alias
+### Useful Git alias
 ```
 git config --global alias.glt "log --graph --oneline"
 git config --global alias.st status
 ```
-## Links
+### Links
 TODO.
