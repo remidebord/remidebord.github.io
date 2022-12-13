@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "WSL2 and Yocto"
 author: 'Rémi Debord'
 comments: true
 ---
