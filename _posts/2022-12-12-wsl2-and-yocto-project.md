@@ -10,7 +10,7 @@ comments: true
 First, install WSL and Windows terminal from Microsoft store.
 Next, install Ubuntu in a specific location (with the export/import trick, as install is always on system disk location).
 Open powershell and follow the instructions below:
-```
+```bash
 # install Ubuntu
 wsl --install -d Ubuntu
 
@@ -26,7 +26,7 @@ wsl --import Ubuntu E:\Linux\ E:Linux\ubuntu.tar
 You might want to resize the virtual disk, by default it can growx up to 256GB.
 
 Open CMD prompt:
-```
+```bash
 # (Optionnal) resize virtual hard disk (run cmd as admin)
 diskpart
 DISKPART> select vdisk file=E:\Linux\ext4.vhdx
@@ -35,7 +35,7 @@ DISKPART> expand vdisk maximum=128000
 DISKPART> detail vdisk
 ```
 Ubuntu can be started via:
-```
+```bash
 wsl
 ```
 or directly by opening a tab in the Windows Terminal.
@@ -43,7 +43,7 @@ or directly by opening a tab in the Windows Terminal.
 ### Windows Terminal customization
 
 We don't really want to be root each time Ubuntu is started, so lets start with a non super user account (e.g: red), go to Windows Terminal and specify the user in the wsl command line:
-```
+```bash
 C:\WINDOWS\system32\wsl.exe -d Ubuntu --user red
 ``` 
 The annoying bell sound could be disabled by unchecking the sound notification in the Advanced tab.
@@ -51,12 +51,12 @@ The annoying bell sound could be disabled by unchecking the sound notification i
 ### Build a distribution with Yocto
 
 As mentionned in the Yocto documentation it will require some specific packages
-```
+```bash
 sudo apt update
 sudo apt install gawk wget git diffstat unzip texinfo gcc build-essential chrpath socat cpio python3 python3-pip python3-pexpect xz-utils debianutils iputils-ping python3-git python3-jinja2 libegl1-mesa libsdl1.2-dev pylint3 xterm python3-subunit mesa-common-dev zstd liblz4-tool
 ```
 Now we can prepare the folders that will receive the downloaded packages needed for the build (/downloads) and start a generation for a qemuarm64 machine based on the hardknott release.
-```
+```bash
 # prepare folders
 mkdir downloads/
 mkdir downloads/hardknott
@@ -71,7 +71,7 @@ git checkout hardknott
 . oe-init-build-env
 ```
 Edit conf/local.conf, add
-```
+```bash
 # specify the packages download folder (in this way it could be reused for another builds)
 DL_DIR ?= "/home/red/downloads/hardknott"
 
@@ -82,7 +82,7 @@ MACHINE = "qemuarm64"
 TOOLCHAIN_TARGET_TASK_append = " kernel-devsrc" 
 ```
 Save and start the build.
-```
+```bash
 bitbake core-image-minimal
 ```
 It will take around 1h the first time (with 8 cores and 16GB of RAM).
@@ -91,7 +91,7 @@ Note: Images will be located in /build/tmp/deploy/images.
 ### Run distribution
 
 Basically it could be started with QEMU like this:
-```
+```bash
 /home/red/distribution/quick/poky/build/tmp/work/x86_64-linux/qemu-helper-native/1.0-r1/recipe-sysroot-native/usr/bin/qemu-system-aarch64 \
 -device virtio-net-device,netdev=net0,mac=52:54:00:12:34:02 \
 -netdev tap,id=net0,ifname=tap0,script=no,downscript=no \
@@ -110,18 +110,18 @@ Basically it could be started with QEMU like this:
 ### SDK generation
 
 As you expect to build user land software or maybe drivers it's necessary to generate a SDK that will contain all the tools needed for the cross compilation.
-```
+```bash
 bitbake core-image-minimal -c populate_sdk
 ```
 Once done, we can deploy it in a specific dir.
-```
+```bash
 mkdir ~/sdk
 mkdir ~/sdk/qemuarm64
 
 ./build/tmp/deploy/sdk/poky-glibc-x86_64-core-image-minimal-cortexa57-qemuarm64-toolchain-3.3.6.sh -d ~/sdk/qemuarm64/
 ```
 For drivers build, few more steps are required.
-```
+```bash
 # source the environment
 . /home/red/sdk/qemuarm64/environment-setup-cortexa57-poky-linux
 
@@ -135,11 +135,11 @@ cd /home/red/sdk/qemuarm64/sysroots/cortexa57-poky-linux/usr/src/kernel/
 make modules_prepare
 ```
 Before building your applications, environment source will be required:
-```
+```bash
 . /home/red/sdk/qemuarm64/environment-setup-cortexa57-poky-linux
 ```
 ### Useful Git alias
-```
+```bash
 git config --global alias.glt "log --graph --oneline"
 git config --global alias.st status
 ```
