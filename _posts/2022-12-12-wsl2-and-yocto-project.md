@@ -143,5 +143,8 @@ Before building your applications, environment source will be required:
 git config --global alias.glt "log --graph --oneline"
 git config --global alias.st status
 ```
-### Links
-TODO.
+### References
+- [Yocto Project Quick build](https://docs.yoctoproject.org/brief-yoctoprojectqs/index.html)
+- [System Requirements](https://docs.yoctoproject.org/ref-manual/system-requirements.html#required-packages-for-the-build-host)
+- [Change the directory of WSL](https://dev.to/_mohanmurali/change-the-directory-of-wsl-36hg)
+- [Developing in WSL](https://code.visualstudio.com/docs/remote/wsl)
