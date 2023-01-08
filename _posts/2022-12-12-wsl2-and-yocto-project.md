@@ -46,7 +46,7 @@ We don't really want to be root each time Ubuntu is started, so lets start with 
 ```bash
 C:\WINDOWS\system32\wsl.exe -d Ubuntu --user red
 ``` 
-The annoying bell sound could be disabled by unchecking the sound notification in the Advanced tab.
+The annoying bell sound could be disabled by unchecking the sound notification in the Advanced tab, and text could be automatically saved into the clipboard when selected, in Interaction enable auto copy.
 
 ### Build a distribution with Yocto
 
