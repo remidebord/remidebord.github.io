@@ -13,7 +13,7 @@ I discovered that OpenAI is also working on a tool called [Whisper](https://open
 
 ### Whisper installation (Ubuntu)
 
-Steps are defined in their github repo, so the following will be a copy/paste, with few additions.
+Steps are defined in their github [repository](https://github.com/openai/whisper), so the following will be a copy/paste, with few additions.
 
 First, let's get install Python (requirement: Python 3.7 or later) and ffmpeg.
 ```bash
