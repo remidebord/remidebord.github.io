@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Use an AI for lyrics transcription"
+title: "Use AI for lyrics transcription"
 author: 'Rémi Debord'
 comments: true
 ---
