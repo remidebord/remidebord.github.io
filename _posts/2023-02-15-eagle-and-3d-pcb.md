@@ -36,7 +36,7 @@ Important: after the ImageMagick install, you may need to restart the computer i
 
 Open the demo board file (demo3d.brd) with Eagle, go to File > Run ULP ..., and select the eagleUp_export.ulp
 
-[![eagleup_ulp](../../../uploads/run_eagleup_ulp.png)](../../../uploads/run_eagleup_ulp.png)
+[![eagleup_ulp](../../../uploads/run_eaglup_ulp.png)](../../../uploads/run_eaglup_ulp.png)
 
 Configure the following fields as above (export folder will be created in your hardware design folder), click on OK, and wait for the export completed popup.
 
