@@ -4,11 +4,9 @@ title: "Road bike upgrades"
 author: 'Rémi Debord'
 comments: true
 ---
-I consider my bike like a companion since i bought it in 2012 for 30€ at the used store, with one of my first wages.
+I consider my bike like a fellow traveler since i bought it in 2012 for 30€ at the used store, with one of my first wages.
 
-This bike is a Profil 2 (PF2) manufactured by [Motobecane](https://en.wikipedia.org/wiki/Motob%C3%A9cane) between 1981 and 1983 (one year before the bankruptcy).
-
-Bike reference is present in the [Motobecane 1981 catalog](../../../uploads/motobecane_catalog_1981.pdf), but the Profil 3 (version++) was prefered for the photo.
+This bike is a Profil 2 (PF2) manufactured by [Motobecane](https://en.wikipedia.org/wiki/Motob%C3%A9cane) between 1981 and 1983 (one year before the bankruptcy). Bike reference is present in the [Motobecane 1981 catalog](../../../uploads/motobecane_catalog_1981.pdf), but the Profil 3 (version++) was prefered for the photo.
 
 Here is the only picture that i found for this bike, extracted from some swedish catalog.
 
@@ -22,6 +20,11 @@ The Profil 2 integrate a mix of a [Shimano Adamas AX](https://velobase.com/ViewG
 I did the first modifications in 2012, which consist to remove the rusts (as there was a lot of it, even if not noticeable on the photos), and add an industrial primer with some spray paint ([MTN Hardcore 400ml - RV-16 Vert Pistache](https://www.allcity.fr/)) and varnish on top.
 
 I removed the Shimano brakes lever, replaced by Dia Comp lever and changed those crappy brakes ([Shimano BR-AD20](https://velobase.com/ViewComponent.aspx?ID=f317b268-5c78-45e2-8bf0-eeafc47d1ecc&Enum=117)) with the bad "parapul" system, by [Campagnolo Avanti](https://velobase.com/ViewComponent.aspx?ID=9237511E-0213-4E30-B969-5A26EAD9E656&Enum=117&AbsPos=0) brakes, much more efficient and with standard pads.
+
+<style>
+    .image-gallery { column-count: 4; }
+    img { width: 100%; height: auto; padding: 10px; }
+</style>
 
 <div class="image-gallery">
     <a href="{{ "/uploads/bike/full/2012-03-03_06.58.53.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/2012-03-03_06.58.53.jpg" | relative_url }}"/></a>
