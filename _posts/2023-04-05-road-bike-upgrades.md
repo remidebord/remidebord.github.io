@@ -24,7 +24,7 @@ I did the first modifications in 2012, which consist to remove the rusts (as the
 I removed the Shimano brakes lever, replaced by Dia Comp lever and changed those crappy brakes ([Shimano BR-AD20](https://velobase.com/ViewComponent.aspx?ID=f317b268-5c78-45e2-8bf0-eeafc47d1ecc&Enum=117)) with the bad "parapul" system, by [Campagnolo Avanti](https://velobase.com/ViewComponent.aspx?ID=9237511E-0213-4E30-B969-5A26EAD9E656&Enum=117&AbsPos=0) brakes, much more efficient and with standard pads.
 
 <div class="image-gallery">
-    <a href="{{ "/uploads/bike/full/2012-03-03_06.58.53.jpg.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/2012-03-03_06.58.53.jpg.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/2012-03-03_06.58.53.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/2012-03-03_06.58.53.jpg" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/2012-08-18_07.32.28.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/2012-08-18_07.32.28.jpg" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/2012-08-30_19.01.21.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/2012-08-30_19.01.21.jpg" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/2012-09-02_12.31.14.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/2012-09-02_12.31.14.jpg" | relative_url }}"/></a>
