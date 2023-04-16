@@ -4,11 +4,11 @@ title: "Road bike upgrades"
 author: 'Rémi Debord'
 comments: true
 ---
-I consider my bike like a fellow traveler since i bought it in 2012 for 30€ at the used store, with one of my first wages.
+I consider my bike like a fellow traveler since i bought it in 2012 for 30€ at the used store with one of my first wages.
 
-This bike is a Profil 2 (PF2) manufactured by [Motobecane](https://en.wikipedia.org/wiki/Motob%C3%A9cane) between 1981 and 1983 (one year before the bankruptcy). Bike reference is present in the [Motobecane 1981 catalog](../../../uploads/motobecane_catalog_1981.pdf), but the Profil 3 (version++) was prefered for the photo.
+This bike is a Profil 2 (PF2) manufactured by [Motobecane](https://en.wikipedia.org/wiki/Motob%C3%A9cane) between 1981 and 1983 (one year before the bankruptcy). Bike reference is present in the [Motobecane 1981 catalog](../../../uploads/motobecane_catalog_1981.pdf), but the Profil 3 (high end version) was prefered for the photo.
 
-Here is the only picture that i found for this bike, extracted from some swedish catalog.
+Here is the only picture that i found for this bike, extracted from a swedish catalog.
 
 [![Motobecane profil 2](../../../uploads/bike/profil2-3.jpg)](../../../uploads/bike/profil2-3.jpg)
 
@@ -48,7 +48,7 @@ In September 2022 i finally replaced my Vittoria tubular tyres, by [Continental 
 
 One month later, back from work, i discovered a long crack at the bottom of the seat tube. After some hours spent to find a company able to perform such repair, i found [Baudou Bikes](http://baudou-bikes.com/) which is still doing handmade bicycles (steel only) and provides services like steel frames repairs. After a discussion with Gael, i decided to remove the paint in order to check if the frame was repairable.
 
-After a complete disassembly and few hours later the paint was removed and it didn't look so bad. At least i didn't discover more than this crack.
+After a complete disassembly and few hours later the paint was removed and it didn't look so bad. At least i didn't discover more than this crack and the result of a precedent repair (visible on the front of the seat tube).
 
 [![Frame cracked](../../../uploads/bike/full/IMG_1254.JPG)](../../../uploads/bike/full/IMG_1254.JPG)
 
@@ -81,7 +81,41 @@ It tooks around 3 hours to remove most of the paint and the primer with long pau
     <a href="{{ "/uploads/bike/full/IMG_1264.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1264.JPG" | relative_url }}"/></a>
 </div>
 
+From Gael input the repair of the crack was feasible for less than 50€ (including an amendment of the previous repair, and the removal of the brake cable guide), and i could also consider doing an epoxy paint for 145€ (which include in any case a sandblasting) subcontracted by [GMT 31](https://gmt31.com/).
 
+I said OK, and bring the bike the next week. The repair was a bit complicated but Gael did a great job, and i get it back in mid November 2022 with an blue epoxy paint (RAL 5011) and a varnish glitter on top. Unfortunatly the glitter effect produced a poor render on a deep blue (steel blue), the bike appears to be gray under the sunlight.
+
+<div class="image-gallery">
+    <a href="{{ "/uploads/bike/full/IMG_1275.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1275.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1277.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1277.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1280.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1280.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1283.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1283.jpg" | relative_url }}"/></a>
+</div>
+
+At this period of time i wasn't sure if i wanted to keep this color for the rest of it's life, but i kept it as is as in between i purchased new parts, and needed to check the compatibility.
+
+Here is the list of parts purchased:
+- [Shimano Dura Ace crankset](https://velobase.com/ViewComponent.aspx?ID=75B41CAA-CB42-4FD7-B267-8876DE799DD9&Enum=115&AbsPos=51) (40€)
+- [Specialite TA chainrings](https://specialites-ta.com/mono/74-336-mono-mono-plateau-specialites-ta-130mm-single-speed-tandem-rohloff-noir-specialites-ta-pl50130339.html), 130mm BCD (1x40 teeths for 31.21€ and 1x42 teeths for 31.21€)
+- [Truvativ chainring bolts](https://www.bike-components.de/fr/Truvativ/Vis-de-Plateau-pour-Pedalier-1-vitesses-p33907/?o=200001-noir-universal) (10.07€)
+- [Specialite TA bottom bracket Axis light BSC](https://specialites-ta.com/standard-axe-carre/93-standard-axe-carre-boitier-de-pedalier-specialites-ta-axix-light-acier-68-73mm-francais-specialites-ta-boal3.html) (116mm version for 96.99€)
+- [Cransket bolts](https://www.decathlon.fr/p/vis-de-serrage-manivelles/_/R-p-290?mc=6288604)
+- [Campagnolo Record headset](https://velobase.com/ViewComponent.aspx?ID=E54DEFF1-CF1F-49A2-81AF-9D0E9E23C649&Enum=111&AbsPos=8) (37€)
+- [San Marco Concor Supercorsa saddle](https://velobase.com/ViewComponent.aspx?ID=2AFF36CE-D92E-488D-8C54-F029C521C59E&Enum=106&AbsPos=1) (43€)
+- [Campagnolo Centaur skeleton rim brake set](https://www.bike-components.de/en/Campagnolo/Centaur-Skeleton-Rim-Brake-Set-p57963/?o=69600891-silver-set-front-rear-) (54.44€)
+- [Newbaum's coton bar-tapes](https://www.cyclo-randonnee.fr/guidoline-287/paire-de-guidolines-newbaum-s-en-coton-2299.html) (16€)
+- [MKS Allways platform pedals](https://www.mkspedal.com/?q=en/product/node/303) (76.80€)
+
+Aim was to change completely the transmission part which was deteriorated after all those years, with high end parts and especially a crankset using replacable chainrings.
+Brakes were updated as quality rim brake pads were no longer availables, and most of the brakes are using cartridges now.
+Saddle was in a pretty bad shape with several holes and the headset was rusty as hell.
+Regarding the pedals, after several years using single sided pedals, i choose to use platform pedals (double sided) with the possibility to add a strap (if in the future i want to switch to a fixed gear).
+
+All the components fits well, except the MKS pedals, but it was expected, and i asked for a tapping (taraudage) to the current standard (9/16th) at [Mr Pignon and Mme guidon](https://www.monsieurpignonmadameguidon.com/) (15€).
+
+Note: crankset bolts were used instead of Shimano crank arm fixing bolts with one key release, because it allows a more important tightening.
+
+TODO.
 
 ### References
 - [Vintage Cycling Database](https://velobase.com/)
