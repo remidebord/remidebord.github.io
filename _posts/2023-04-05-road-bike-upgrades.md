@@ -50,15 +50,20 @@ One month later, back from work, i discovered a long crack at the bottom of the 
 
 After a complete disassembly and few hours later the paint was removed and it didn't look so bad. At least i didn't discover more than this crack.
 
+[![Frame cracked](../../../uploads/bike/full/IMG_1254.JPG)](../../../uploads/bike/full/IMG_1254.JPG)
+
+I used a stripper from [Blanchon](https://www.blanchon.com/professionnels/decapant-batiment-10-gelifie.html), combined to a hot air gun when the paint was not affected by the stripper.
+It tooks around 3 hours to remove most of the paint and the primer with long pauses in between in order to let the stripper do it's work.
+
 <div class="image-gallery">
     <a href="{{ "/uploads/bike/full/IMG_1170.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1170.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1172.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1172.JPG" | relative_url }}"/></a>
-    <a href="{{ "/uploads/bike/full/IMG_1180.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1180.JPG" | relative_url }}"/></a>
-    <a href="{{ "/uploads/bike/full/IMG_1208.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1208.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1180.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1180.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1208.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1208.jpg" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1209.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1209.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1213.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1213.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1215.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1215.JPG" | relative_url }}"/></a>
-    <a href="{{ "/uploads/bike/full/IMG_1219.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1219.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1219.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1219.jpg" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1221.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1221.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1222.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1222.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1223.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1223.JPG" | relative_url }}"/></a>
