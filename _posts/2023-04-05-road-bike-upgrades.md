@@ -40,7 +40,43 @@ As the rear derailleur was no use i removed it, and i decided to also remove the
 
 I put tubular tyres (boyaux) from [Vittoria](https://www.vittoria.com/ww/en/) as the rims were planned for. After several disappointments with the Vittoria Rally i changed and picked the Vittoria Corsa Elite (700x23), paid 44.95€ the pack of two (yes, sounds impossible in 2023), and it changed my life.
 
-TODO.
+The bike stayed in this configuration for around 8 years, brakes pads were changed periodically and the singlespeed freewheel was replaced in mid 2021 due a mechanism completely broken.
+
+Nervar single speed freewheel (18 teeths) was replaced by a [Miche single speed freewheel](https://studiobrisant.com/en/miche-singlespeed-freilauf-ritzel-3mm-16-zaehne) (16 teeths, 1/2" X 1/8") which is in fact manufactured by the chinese company [CIxi Kangdi Bicycle Co](http://en.cnata.com/) specialized in it. At the same time the chain was replaced by a half link chain ([YBN MK918](https://studiobrisant.com/fr/ybn-singlespeed-fahrradkette-silber-1/2-1/8-bmx) ~15€) which permit to avoid the addition of a [chain tensioner](https://www.bike-components.de/fr/PAUL/Tendeur-de-Chaine-Melvin-Chain-Tensioner-p53572/).
+
+In September 2022 i finally replaced my Vittoria tubular tyres, by [Continental Sprinter Gatorskin](https://www.continental-tires.com/fr/fr/b2c/bicycle/tires/sprinter-gatorskin.html)  (700x25) tubular tyres after a puncture. I choose them for two reasons, durability and price (48.98€ each), because in the meantime the price of the Vittoria Corsa Graphene (new reference) increased up to 80€ for each... Which sounds ridiculous compared to what i payed for my car (Michelin four seasons tyres at ~90€ each). Looks like tubular tyres are not popular nowadays, and abandonned for usual tyres (Gravel is the new hype). Even glue was hard to find, i used some [Jantex](https://amzn.eu/d/g3I2Bjn) tape (Velox) instead (~15€), as it was out of stock on every known online shops and at locals bike dealer shops.
+
+One month later, back from work, i discovered a long crack at the bottom of the seat tube. After some hours spent to find a company able to perform such repair, i found [Baudou Bikes](http://baudou-bikes.com/) which is still doing handmade bicycles (steel only) and provides services like steel frames repairs. After a discussion with Gael, i decided to remove the paint in order to check if the frame was repairable.
+
+After a complete disassembly and few hours later the paint was removed and it didn't look so bad. At least i didn't discover more than this crack.
+
+<div class="image-gallery">
+    <a href="{{ "/uploads/bike/full/IMG_1170.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1170.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1172.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1172.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1180.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1180.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1208.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1208.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1209.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1209.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1213.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1213.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1215.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1215.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1219.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1219.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1221.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1221.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1222.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1222.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1223.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1223.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1224.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1224.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1228.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1228.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1253.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1253.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1254.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1254.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1255.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1255.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1258.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1258.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1259.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1259.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1260.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1260.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1261.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1261.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1262.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1262.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1263.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1263.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1264.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1264.JPG" | relative_url }}"/></a>
+</div>
+
+
 
 ### References
 - [Vintage Cycling Database](https://velobase.com/)
