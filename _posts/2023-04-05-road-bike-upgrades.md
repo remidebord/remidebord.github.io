@@ -111,11 +111,97 @@ Brakes were updated as quality rim brake pads were no longer availables, and mos
 Saddle was in a pretty bad shape with several holes and the headset was rusty as hell.
 Regarding the pedals, after several years using single sided pedals, i choose to use platform pedals (double sided) with the possibility to add a strap (if in the future i want to switch to a fixed gear).
 
-All the components fits well, except the MKS pedals, but it was expected, and i asked for a tapping (taraudage) to the current standard (9/16th) at [Mr Pignon and Mme guidon](https://www.monsieurpignonmadameguidon.com/) (15€).
+All the components fits well, except the MKS pedals, but it was expected, and i asked for a rethreading (taraudage) to the current standard (9/16th) at [Mr Pignon and Mme guidon](https://www.monsieurpignonmadameguidon.com/) (15€).
 
 Note: crankset bolts were used instead of Shimano crank arm fixing bolts with one key release, because it allows a more important tightening.
 
-TODO.
+<div class="image-gallery">
+    <a href="{{ "/uploads/bike/full/IMG_1294.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1294.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1298.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1298.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1299.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1299.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1300.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1300.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1302.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1302.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1306.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1306.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1307.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1307.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1308.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1308.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1311.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1311.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1312.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1312.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1313.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1313.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1315.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1315.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1316.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1316.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1318.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1318.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1319.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1319.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1320.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1320.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1321.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1321.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1323.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1323.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1347.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1347.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1348.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1348.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1349.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1349.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1350.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1350.JPG" | relative_url }}"/></a>
+</div>
+
+At the end of 2022, i decided to change the paint for a lighter color, frame will be in RAL 1028 (Melon Yellow) and the fork in RAL 9005 (Jet black).
+I bring back the frame and the fork to [Baudou Bikes](http://baudou-bikes.com/) the week before christmas, and get it back in mid January 2023.
+This time it cost me around 120€ (sandblasting, painting and rethreading included).
+
+The new paint completely change the way that i consider my frame, in a good way. Epoxy paint rendering is impressive.
+
+<div class="image-gallery">
+    <a href="{{ "/uploads/bike/full/IMG_1383.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1383.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1384.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1384.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1385.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1385.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1386.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1386.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1387.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1387.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1388.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1388.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1389.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1389.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1390.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1390.jpg" | relative_url }}"/></a>
+</div>
+
+I purchased Motobecane Profil 2 stickers (replicas) from an ebay shop ([bicyclestickersuk](https://www.ebay.fr/itm/332536985397?var=541622375611)), and this bike retrieve it's original soul (and might looks like a [hornet](https://en.wikipedia.org/wiki/Hornet)).
+
+Here is the resut after the final assembly.
+
+[![The hornet](../../../uploads/bike/full/IMG_1535.JPG)](../../../uploads/bike/full/IMG_1535.JPG)
+
+Note: headset is finally a mix of the Campagnolo headset and Motobecane original headset due to length of the fork (Motobecane headset is very low profile). If i find a Columbus fork which fit my needs i will change it in order to have only Campagnolo parts.
+
+<div class="image-gallery">
+    <a href="{{ "/uploads/bike/full/IMG_1538.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1538.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1539.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1539.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1540.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1540.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1541.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1541.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1542.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1542.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1544.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1544.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1545.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1545.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1546.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1546.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1547.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1547.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1548.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1548.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1552.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1552.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1553.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1553.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1554.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1554.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1555.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1555.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1556.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1556.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1557.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1557.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1558.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1558.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1559.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1559.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1560.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1560.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1561.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1561.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1563.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1563.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1569.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1569.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1571.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1571.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1572.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1572.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1573.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1573.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1574.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1574.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1575.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1575.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1576.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1576.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1577.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1577.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1578.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1578.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1579.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1579.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1580.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1580.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1581.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1581.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1582.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1582.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1583.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1583.JPG" | relative_url }}"/></a>
+</div>
 
 ### References
 - [Vintage Cycling Database](https://velobase.com/)
