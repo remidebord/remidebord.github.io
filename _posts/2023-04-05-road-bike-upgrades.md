@@ -118,12 +118,12 @@ Note: crankset bolts were used instead of Shimano crank arm fixing bolts with on
 <div class="image-gallery">
     <a href="{{ "/uploads/bike/full/IMG_1294.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1294.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1298.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1298.JPG" | relative_url }}"/></a>
-    <a href="{{ "/uploads/bike/full/IMG_1299.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1299.jpg" | relative_url }}"/></a>
-    <a href="{{ "/uploads/bike/full/IMG_1300.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1300.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1299.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1299.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1300.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1300.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1302.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1302.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1306.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1306.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1307.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1307.JPG" | relative_url }}"/></a>
-    <a href="{{ "/uploads/bike/full/IMG_1308.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1308.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1308.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1308.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1311.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1311.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1312.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1312.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1313.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1313.JPG" | relative_url }}"/></a>
@@ -149,12 +149,12 @@ The new paint completely change the way that i consider my frame, in a good way.
 <div class="image-gallery">
     <a href="{{ "/uploads/bike/full/IMG_1383.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1383.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1384.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1384.JPG" | relative_url }}"/></a>
-    <a href="{{ "/uploads/bike/full/IMG_1385.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1385.jpg" | relative_url }}"/></a>
-    <a href="{{ "/uploads/bike/full/IMG_1386.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1386.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1385.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1385.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1386.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1386.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1387.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1387.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1388.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1388.JPG" | relative_url }}"/></a>
-    <a href="{{ "/uploads/bike/full/IMG_1389.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1389.jpg" | relative_url }}"/></a>
-    <a href="{{ "/uploads/bike/full/IMG_1390.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1390.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1389.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1389.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1390.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1390.JPG" | relative_url }}"/></a>
 </div>
 
 I purchased Motobecane Profil 2 stickers (replicas) from an ebay shop ([bicyclestickersuk](https://www.ebay.fr/itm/332536985397?var=541622375611)), and this bike retrieve it's original soul (and might looks like a [hornet](https://en.wikipedia.org/wiki/Hornet)).
@@ -167,12 +167,12 @@ Note: headset is finally a mix of the Campagnolo headset and Motobecane original
 
 <div class="image-gallery">
     <a href="{{ "/uploads/bike/full/IMG_1538.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1538.JPG" | relative_url }}"/></a>
-    <a href="{{ "/uploads/bike/full/IMG_1539.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1539.jpg" | relative_url }}"/></a>
-    <a href="{{ "/uploads/bike/full/IMG_1540.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1540.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1539.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1539.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1540.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1540.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1541.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1541.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1542.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1542.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1544.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1544.JPG" | relative_url }}"/></a>
-    <a href="{{ "/uploads/bike/full/IMG_1545.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1545.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1545.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1545.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1546.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1546.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1547.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1547.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1548.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1548.JPG" | relative_url }}"/></a>
@@ -187,11 +187,11 @@ Note: headset is finally a mix of the Campagnolo headset and Motobecane original
     <a href="{{ "/uploads/bike/full/IMG_1560.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1560.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1561.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1561.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1563.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1563.JPG" | relative_url }}"/></a>
-    <a href="{{ "/uploads/bike/full/IMG_1569.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1569.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1569.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1569.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1571.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1571.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1572.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1572.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1573.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1573.JPG" | relative_url }}"/></a>
-    <a href="{{ "/uploads/bike/full/IMG_1574.jpg" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1574.jpg" | relative_url }}"/></a>
+    <a href="{{ "/uploads/bike/full/IMG_1574.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1574.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1575.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1575.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1576.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1576.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/bike/full/IMG_1577.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1577.JPG" | relative_url }}"/></a>
