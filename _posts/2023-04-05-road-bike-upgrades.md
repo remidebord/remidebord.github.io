@@ -113,7 +113,7 @@ Regarding the pedals, after several years using single sided pedals, i choose to
 
 All the components fits well, except the MKS pedals, but it was expected, and i asked for a rethreading (taraudage) to the current standard (9/16th) at [Mr Pignon and Mme guidon](https://www.monsieurpignonmadameguidon.com/) (15€).
 
-Note: crankset bolts were used instead of Shimano crank arm fixing bolts with one key release, because it allows a more important tightening.
+> Note: crankset bolts were used instead of Shimano crank arm fixing bolts with one key release, because it allows a more important tightening.
 
 <div class="image-gallery">
     <a href="{{ "/uploads/bike/full/IMG_1294.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1294.JPG" | relative_url }}"/></a>
@@ -163,7 +163,7 @@ Here is the resut after the final assembly.
 
 [![The hornet](../../../uploads/bike/full/IMG_1535.JPG)](../../../uploads/bike/full/IMG_1535.JPG)
 
-Note: headset is finally a mix of the Campagnolo headset and Motobecane original headset due to length of the fork (Motobecane headset is very low profile). If i find a Columbus fork which fit my needs i will change it in order to have only Campagnolo parts.
+> Note: headset is finally a mix of the Campagnolo headset and Motobecane original headset due to length of the fork (Motobecane headset is very low profile). If i find a Columbus fork which fit my needs i will change it in order to have only Campagnolo parts.
 
 <div class="image-gallery">
     <a href="{{ "/uploads/bike/full/IMG_1538.JPG" | relative_url }}"><img src="{{ "/uploads/bike/mini/IMG_1538.JPG" | relative_url }}"/></a>
@@ -205,4 +205,28 @@ Note: headset is finally a mix of the Campagnolo headset and Motobecane original
 
 ### References
 - [Vintage Cycling Database](https://velobase.com/)
-
+- [Baudou Bikes](https://www.baudou-bikes.ovh/)
+- [Grenaillage Metallisation Thermolaquage](https://gmt31.com/)
+- [Motobecane Profil 2 stickers](https://www.ebay.fr/itm/332536985397)
+- [AllStickers](https://allstickers.fr/)
+- [Motobecane Profil 3 pics](http://bibibikestock.blogspot.com/p/motobecane-profil-3.html)
+- [Bottom bracket guide](https://www.lecyclo.com/blogs/conseils/tout-savoir-sur-boitier-pedalier-velo)
+- [Bottom brackets standards](https://bike-cafe.fr/2014/01/monter-mon-fixie-fichus-standards-saison-3/)
+- [Sheldon Brown - Bottom bracket size database](https://www.sheldonbrown.com/bbtaper.html)
+- [Sheldon Brown - Bottom bracket JIS or ISO ?](https://www.sheldonbrown.com/bbtaper.html)
+- [Bike chain informations](https://le-velo-urbain.com/choisir-chaine-fixie-singlespeed)
+- [Shimano - Dura Ace history](https://www.shimano.com/en/100th/history/products/14.php)
+- [The Phoenix Project](http://nihonmaru.blogspot.com/2011/08/phoenix-project-ta-specialites-carmina.html)
+- [Cinelli Vigorelli review](https://www.veloderoute.com/news/16621/essai-cinelli-vigorelli-shark)
+- [MKS Pedals](https://www.mkspedal.com/?q=en)
+- [The Radavist](https://theradavist.com/)
+- [Pomalujrower.pl - RAL paint rendering on bikes](https://www.facebook.com/pomalujrower)
+- [Shop - La Chouette](https://www.lachouetteparis.com/fr)
+- [Shop - Bike Components](https://www.bike-components.de/fr/)
+- [Shop - Probikeshop](https://www.probikeshop.fr/)
+- [Shop - Studio Brisant](https://studiobrisant.com/fr/)
+- [Shop - Specialite TA](https://specialites-ta.com/)
+- [Shop - Monsieur Pignon Madame Guidon](https://www.monsieurpignonmadameguidon.com/)
+- [Shop - Analog Cycles](https://analogcycles.com/collections/components)
+- [Shop - Wolf tooth chainrings](https://www.wolftoothcomponents.com/collections/gravel-cyclocross-road/products/130-bcd-cyclocross-chainrings)
+- [Shop - Brompton saddle clamp](https://www.fantastic4toys.com/products/h-h-carbon-or-normal-saddle-clamp-for-brompton-bicycle?variant=36898557690022)
