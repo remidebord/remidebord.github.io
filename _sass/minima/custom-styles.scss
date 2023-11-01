@@ -59,6 +59,10 @@ a:visited {
     color: var(--blue-color);
 }
 
+a:visited:hover {
+    color: var(--orange-color);
+}
+
 hr {
     padding: 0;
     margin: 7px 0 8px 0;
@@ -152,9 +156,11 @@ table th, table td {
     font-size: inherit;
     font-weight: inherit;
     letter-spacing: initial;
+	color: var(--blue-color);
 }
 
 .site-nav .page-link {
+    color: var(--blue-color);
 }
 
 .site-footer {
