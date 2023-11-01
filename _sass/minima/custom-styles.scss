@@ -2,23 +2,39 @@
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
 
-@font-face {
-    font-family: 'IBMVGA8';
-    src: url(./fonts/PxPlus_IBM_VGA8.ttf) format('truetype');
-    font-weight: normal;
-    font-style: normal;
+/* Colors:
+ * - blue: #9CDCFE
+ * - brown skin: #CE9178
+ * - orange: #F0AD4E
+ * - gray: #C8C8C8
+ *
+ * Backgrounds:
+ * - Black light: #1F1F1F
+ * - Black light+: #313131
+ */
+
+:root {
+    --base-font: Consolas, 'Courier New', monospace;
+
+    --blue-color: #9CDCFE;
+    --blue-dark-color: #2A79B1;
+    --brown-skin-color: #CE9178;
+    --orange-color: #F0AD4E;
+    --green-light-color: #75A35C;
+    --gray-color: #C8C8C8;
+    --black-light: #1F1F1F;
+    --black-light-plus: #313131;
 }
 
+
 body {        
-    background-color: black;
+    background-color: var(black-light);
 }
 
 html, body, footer {
-    font-family: IBMVGA8, monospace;
-    font-size: 16px;
-    color: #999;
-    
-    line-height: 1;
+    font-family: var(--base-font);
+    font-size: medium;
+    color: var(--gray-color);
     
     -webkit-text-size-adjust: none;
     -ms-text-size-adjust: 100%;
@@ -26,32 +42,32 @@ html, body, footer {
     text-size-adjust: none;
 }
 
+/* Links / Anchor  */
+
 a {
-    color: #0aa;
+    color: var(--blue-color);
     text-decoration: none;
 }
 
 a:hover {
-    color: #ff5;
+    color: var(--orange-color);
     text-decoration: none;
 }
 
 a:visited {
-    color: #0aa;
 }
 
 hr {
     padding: 0;
     margin: 7px 0 8px 0;
     height: 1px;
-    background-color: #333;
     border-width: 0;
 }
 
 h3 {
     font-size: 16px;
     font-weight: normal;
-    color: #0a0; /* Green */
+    color: var(--orange-color);
 }
 
 pre, textarea {
@@ -64,8 +80,8 @@ pre, textarea {
 }
 
 pre, code, textarea {        
-    background-color: #0C0C0C;
-    color: #717171;
+    background-color: var(--black-light);
+    color: var(--gray-color);
     border: none;
     
     /* New line when the line length is superior to the pre width */
@@ -80,19 +96,20 @@ code {
 }
 
 blockquote {
-    color: #717171;
+    color: var(--gray-color);
     font-size: inherit;
     font-style: inherit;
-    background-color: #0C0C0C;
+    background-color: var(--black-light);
 }
 
 button, input {
-    font-family: IBMVGA8, monospace;
+    font-family: var(--base-font);
     font-size: 16px;
-    color: #999;    
+    color: var(--gray-color);
+
     text-align: center;
-    
-    background-color: black; /* Force background color */
+	
+    background-color: var(--black-light);
     
     border-width: 1px;
     border-style: solid;
@@ -114,7 +131,6 @@ table {
 
 table td {
     border: 0px;
-    background-color: black;
     margin-bottom: 3px;
 }
 
@@ -131,11 +147,9 @@ table th, table td {
     font-size: inherit;
     font-weight: inherit;
     letter-spacing: initial;
-    color: #0aa;
 }
 
 .site-nav .page-link {
-    color: #0aa;
 }
 
 .site-footer {
@@ -143,7 +157,6 @@ table th, table td {
 }
 
 .post-link:hover {
-    color: #ff5;
     text-decoration: none;
 }
 
@@ -167,12 +180,12 @@ table th, table td {
 }
 
 .highlight {
-    background-color: #0C0C0C;
+    background-color: var(--black-light);
     border: none;
 }
 
 .highlighter-rouge .highlight {
-    background-color: #0C0C0C;
+    background-color: var(--black-light);
 }
 
 .footer-col-wrapper, .social-links {
@@ -191,11 +204,13 @@ table th, table td {
     
 }
 
+/* custom Scrollbar */
+
 ::-webkit-scrollbar {
     width: 10px;
-    background: black;
+    background: var(--black-light);
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #181818;
+    background: var(--black-light-plus);
 }
