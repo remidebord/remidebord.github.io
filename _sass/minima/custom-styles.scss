@@ -22,13 +22,13 @@
     --orange-color: #F0AD4E;
     --green-light-color: #75A35C;
     --gray-color: #C8C8C8;
-    --black-light: #1F1F1F;
-    --black-light-plus: #313131;
+    --black-light-color: #1F1F1F;
+    --black-light-plus-color: #313131;
 }
 
 
 body {        
-    background-color: var(black-light);
+    background-color: var(--black-light-color);
 }
 
 html, body, footer {
@@ -80,7 +80,7 @@ pre, textarea {
 }
 
 pre, code, textarea {        
-    background-color: var(--black-light);
+    background-color: var(--black-light-color);
     color: var(--gray-color);
     border: none;
     
@@ -99,7 +99,7 @@ blockquote {
     color: var(--gray-color);
     font-size: inherit;
     font-style: inherit;
-    background-color: var(--black-light);
+    background-color: var(--black-light-color);
 }
 
 button, input {
@@ -109,7 +109,7 @@ button, input {
 
     text-align: center;
 	
-    background-color: var(--black-light);
+    background-color: var(--black-light-color);
     
     border-width: 1px;
     border-style: solid;
@@ -180,12 +180,12 @@ table th, table td {
 }
 
 .highlight {
-    background-color: var(--black-light);
+    background-color: var(--black-light-color);
     border: none;
 }
 
 .highlighter-rouge .highlight {
-    background-color: var(--black-light);
+    background-color: var(--black-light-color);
 }
 
 .footer-col-wrapper, .social-links {
@@ -208,9 +208,9 @@ table th, table td {
 
 ::-webkit-scrollbar {
     width: 10px;
-    background: var(--black-light);
+    background: var(--black-light-color);
 }
 
 ::-webkit-scrollbar-thumb {
-    background: var(--black-light-plus);
+    background: var(--black-light-plus-color);
 }
