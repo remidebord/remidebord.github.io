@@ -30,7 +30,7 @@ layout: default
       <td>
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         
-        {% assign max_separators = 80 %}
+        {% assign max_separators = 72 %}
         {% assign number = max_separators | minus: post.title.size %}
         <span class="file-separator">
         {%- for i in (1..number) -%}

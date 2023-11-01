@@ -40,6 +40,7 @@ html, body, footer {
     -ms-text-size-adjust: 100%;
     -moz-text-size-adjust: none;
     text-size-adjust: none;
+    text-align: justify;
 }
 
 /* Links / Anchor  */
@@ -55,12 +56,14 @@ a:hover {
 }
 
 a:visited {
+    color: var(--blue-color);
 }
 
 hr {
     padding: 0;
     margin: 7px 0 8px 0;
     height: 1px;
+    background-color: #333;
     border-width: 0;
 }
 
@@ -80,7 +83,7 @@ pre, textarea {
 }
 
 pre, code, textarea {        
-    background-color: var(--black-light-color);
+    background-color: var(--black-light-plus-color);
     color: var(--gray-color);
     border: none;
     
@@ -108,7 +111,7 @@ button, input {
     color: var(--gray-color);
 
     text-align: center;
-	
+
     background-color: var(--black-light-color);
     
     border-width: 1px;
@@ -130,6 +133,8 @@ table {
 }
 
 table td {
+    background-color: var(--black-light-color);
+
     border: 0px;
     margin-bottom: 3px;
 }
@@ -157,6 +162,7 @@ table th, table td {
 }
 
 .post-link:hover {
+    color: var(--orange-color);
     text-decoration: none;
 }
 
@@ -180,12 +186,12 @@ table th, table td {
 }
 
 .highlight {
-    background-color: var(--black-light-color);
+    background-color: var(--black-light-plus-color);
     border: none;
 }
 
 .highlighter-rouge .highlight {
-    background-color: var(--black-light-color);
+    background-color: var(--black-light-plus-color);
 }
 
 .footer-col-wrapper, .social-links {
