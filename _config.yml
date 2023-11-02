@@ -56,8 +56,6 @@ theme: minima
 # Number of posts per page
 paginate: 22
 
-paginate_path: "/blog/page:num/"
-
 # Comments
 disqus:
   shortname: remidebord-github-io
@@ -65,3 +63,4 @@ disqus:
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-paginate
