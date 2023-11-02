@@ -53,6 +53,9 @@ minima:
 # Build settings
 theme: minima
 
+# Number of posts per page
+paginate: 22
+
 # Comments
 disqus:
   shortname: remidebord-github-io
