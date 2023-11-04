@@ -3,6 +3,7 @@ layout: post
 title: "Firmware upgrade on a STM32F103 via USB (DFU)"
 author: 'Rémi Debord'
 comments: true
+tipue_search_active: true
 ---
 ### Introduction
 When devices are on field, users should be able to update it without debugger, and this is why some bootloader are integrated. A bootloader allow reflashing over all kinds of communication bus (UART, CAN, USB, ...).

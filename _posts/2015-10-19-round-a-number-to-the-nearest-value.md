@@ -3,6 +3,7 @@ layout: post
 title: "Round a number to the nearest value [C]"
 author: 'Rémi Debord'
 comments: true
+tipue_search_active: true
 ---
 This method is known as round to nearest via modulus division, and permit to round to the nearest multiple of the number.
 ```c

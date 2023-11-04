@@ -3,6 +3,7 @@ layout: post
 title: "How to daemonize a program [Linux]"
 author: 'Rémi Debord'
 comments: true
+tipue_search_active: true
 ---
 On Linux, there are "two" ways to daemonize a program. The old way which is the most standard and can be applied to every distributions, with using [start-stop-daemon](http://manpages.ubuntu.com/manpages/lucid/fr/man8/start-stop-daemon.8.html).
 And a more recent way using [Upstart](http://upstart.ubuntu.com/) which is a replacement for System V init, available on Ubuntu, and which provide a lot of interesting features (like respawn and events).

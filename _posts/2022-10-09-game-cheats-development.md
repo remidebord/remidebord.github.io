@@ -2,6 +2,7 @@
 layout: post
 author: 'Rémi Debord'
 comments: true
+tipue_search_active: true
 ---
 
 Few years ago i started to play to Star Wars Battlefront, an online multiplayer game, which is pretty unusual for me as i prefer games with good narrative, solo experience.

@@ -3,6 +3,7 @@ layout: post
 title: "Use serial port with WSL2"
 author: 'Rémi Debord'
 comments: true
+tipue_search_active: true
 ---
 
 First, install [usbipd-win](https://github.com/dorssel/usbipd-win/releases) like explained on [Connect USB devices](https://learn.microsoft.com/en-us/windows/wsl/connect-usb) microsoft web page.

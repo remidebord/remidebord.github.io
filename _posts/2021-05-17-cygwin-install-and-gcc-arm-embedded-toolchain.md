@@ -3,6 +3,7 @@ layout: post
 title: "Cygwin install and GCC ARM embedded toolchain"
 author: 'Rémi Debord'
 comments: true
+tipue_search_active: true
 ---
 ### Install Cygwin
 Get the Cygwin installer from [cygwin.com/install.html](https://cygwin.com/install.html) ([mirror](http://remidebord.fr/blog/uploads/setup-x86_64.exe) ), open a prompt and install cygwin with the following packages:

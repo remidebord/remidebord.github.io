@@ -3,6 +3,7 @@ layout: post
 title: "Serial Port Library [Windows/Linux]"
 author: 'Rémi Debord'
 comments: true
+tipue_search_active: true
 ---
 [![helloworld](../../../uploads/helloworld.png)](../../../uploads/helloworld.png)
 

@@ -3,6 +3,7 @@ layout: post
 title: "Road bike upgrades"
 author: 'Rémi Debord'
 comments: true
+tipue_search_active: true
 ---
 I consider my bike like a fellow traveler since i bought it in 2012 for 30€ at the used store with one of my first wages.
 

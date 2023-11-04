@@ -3,6 +3,7 @@ layout: post
 title: "Yocto cheatsheet"
 author: 'Rémi Debord'
 comments: true
+tipue_search_active: true
 ---
 
 ### poky

@@ -3,6 +3,7 @@ layout: post
 title: "Convert a Blue pill to a Black Magic Probe"
 author: 'Rémi Debord'
 comments: true
+tipue_search_active: true
 ---
 ### Introduction 
 I was lookin for a cheap solution to debug SAMD21 microcontroller as they are more and more popular (next generation of Arduino boards), and as STM32 are pretty rare those times.

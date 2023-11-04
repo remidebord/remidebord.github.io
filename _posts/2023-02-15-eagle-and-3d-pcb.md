@@ -3,6 +3,7 @@ layout: post
 title: "Eagle and 3D PCB"
 author: 'Rémi Debord'
 comments: true
+tipue_search_active: true
 ---
 
 Years ago i was looking for a solution of 3D rendering for [Eagle CAD](https://www.autodesk.com/products/eagle/overview) in order to check visually how a PCB could fit into a specific box or if it could be optimized.

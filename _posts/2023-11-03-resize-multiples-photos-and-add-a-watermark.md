@@ -3,6 +3,7 @@ layout: post
 title: "Resize multiple photos and add a watermark"
 author: 'Rémi Debord'
 comments: true
+tipue_search_active: true
 ---
 I was looking for something which permit to process a lot of photos via command line, and my dream came true by using the well known [ImageMagick](https://imagemagick.org/index.php).
 

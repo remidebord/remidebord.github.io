@@ -3,6 +3,7 @@ layout: post
 title: "STM32F0 Libraries [mbed like]"
 author: 'Rémi Debord'
 comments: true
+tipue_search_active: true
 ---
 [![STM32 libraries](../../../uploads/DSC_4723_1.jpg)](../../../uploads/DSC_4723_1.jpg)
         

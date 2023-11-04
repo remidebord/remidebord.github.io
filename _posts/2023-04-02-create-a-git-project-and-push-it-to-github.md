@@ -3,6 +3,7 @@ layout: post
 title: "Create a Git repo and push it to Github"
 author: 'Rémi Debord'
 comments: true
+tipue_search_active: true
 ---
 As i'm struggling with it each time, here is how to proceed from a fresh install.
 

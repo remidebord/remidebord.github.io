@@ -3,6 +3,7 @@ layout: post
 title: "RS-485 RTS hardware control [Windows]"
 author: 'Rémi Debord'
 comments: true
+tipue_search_active: true
 ---
 [![TEK0002](../../../uploads/TEK0002.jpg)](../../../uploads/TEK0002.jpg)
 

@@ -3,6 +3,7 @@ layout: post
 title: "WSL2 and Yocto"
 author: 'Rémi Debord'
 comments: true
+tipue_search_active: true
 ---
 
 ### WSL2 and Ubuntu installation

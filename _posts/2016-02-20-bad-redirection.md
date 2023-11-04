@@ -3,6 +3,7 @@ layout: post
 title: "Bad redirection [WampServer]"
 author: 'Rémi Debord'
 comments: true
+tipue_search_active: true
 ---
 When you have just installed WampServer and start a new project (`/www` repertory), the project can be reach by use this kind of URL localhost/myProject.
 

@@ -3,6 +3,7 @@ layout: post
 title: "Use AI for lyrics transcription"
 author: 'Rémi Debord'
 comments: true
+tipue_search_active: true
 ---
 
 Things are moving fast on AI side, i think mainly about [DALL-E](https://openai.com/dall-e-2/) or [ChatGPT](https://openai.com/blog/chatgpt/).
