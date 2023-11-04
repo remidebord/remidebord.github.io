@@ -225,3 +225,22 @@ table th, table td {
 ::-webkit-scrollbar-thumb {
     background: var(--black-light-plus-color);
 }
+
+/* tipue search bar */
+
+#tipue_search_input {
+    color: var(--gray-color);
+	border-color: #333;
+}
+
+#tipue_search_results_count {
+    color: var(--gray-color);
+}
+
+.tipue_search_content_text {
+    color: var(--gray-color);
+}
+
+.tipue_search_content_bold {
+    color: var(--orange-color);
+}

@@ -4,12 +4,3 @@
   1. Head over to https://realfavicongenerator.net/ to add your own favicons.
   2. Customize default _includes/custom-head.html in your source directory and insert the given code snippet.
 {% endcomment %}
-
-{% if page.tipue_search_active or layout.tipue_search_active %}
-<link rel="stylesheet" href="{{ "/assets/tipuesearch/css/normalize.css" | relative_url }}">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}"></script>
-<link rel="stylesheet" href="{{ "/assets/tipuesearch/css/tipuesearch.css" | relative_url }}">
-<script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}"></script>
-<script src="{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}"></script>
-{% endif %}
