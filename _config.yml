@@ -54,7 +54,7 @@ minima:
 theme: minima
 
 # Number of posts per page
-paginate: 24
+paginate: 19
 
 # Comments
 disqus:
