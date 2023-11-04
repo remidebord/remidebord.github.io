@@ -229,18 +229,28 @@ table th, table td {
 /* tipue search bar */
 
 #tipue_search_input {
+    font-family: var(--base-font);
     color: var(--gray-color);
 	border-color: #333;
 }
 
 #tipue_search_results_count {
+    font-family: var(--base-font);
     color: var(--gray-color);
+}
+
+.tipue_search_content_title {
+    font-family: var(--base-font);
+    font-size: 16px;
 }
 
 .tipue_search_content_text {
+    font-family: var(--base-font);
     color: var(--gray-color);
+    font-size: medium;
 }
 
 .tipue_search_content_bold {
+    font-family: var(--base-font);
     color: var(--orange-color);
 }
