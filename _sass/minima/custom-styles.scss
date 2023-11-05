@@ -248,6 +248,11 @@ table th, table td {
     color: var(--blue-color);
 }
 
+.tipue_search_content_title a:hover {
+    color: var(--orange-color);
+    text-decoration: none;
+}
+
 .tipue_search_content_text {
     font-family: var(--base-font);
     color: var(--gray-color);
