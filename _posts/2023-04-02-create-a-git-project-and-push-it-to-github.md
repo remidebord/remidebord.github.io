@@ -7,10 +7,16 @@ tipue_search_active: true
 ---
 As i'm struggling with it each time, here is how to proceed from a fresh install.
 
+Set user informations
+```bash
+git config --global user.email "remidebord@hotmail.fr"
+git config --global user.name "Rémi Debord"
+```
+
 Create ssh key
 ```bash
 # SHA256 key generation
-ssh-keygen -C "remidebord@hotmail.fr"
+ssh-keygen -t rsa -C "remidebord@hotmail.fr"
 # Change rights access, else ssh-add will complain about it
 chmod 400 ~/.ssh/id_rsa.pub
 # Start ssh-agent
