@@ -19,7 +19,7 @@ Here are the parts purchased:
 At the end, springs and protections were returned as original ones were in good conditions. 
 Usually a spring is replaced when this one is broken or present some cracks. 
 
-There is a good video explaining how to proceed for the replacement, see [Comment remplacer des amortisseurs arrière sur une TOYOTA COROLLA E120 TUTORIEL | AUTODOC](https://youtu.be/LApdLJzJ4Mk?si=QyeaerVrQRqx2olA).  
+There is a good video explaining how to proceed for the replacement, see [Comment remplacer des amortisseurs arrière sur une TOYOTA COROLLA E120 TUTORIEL AUTODOC](https://youtu.be/LApdLJzJ4Mk?si=QyeaerVrQRqx2olA).  
 
 The procedure is also detailed in the Toyota Corolla [service manual](../../../uploads/9th-gen-toyota-corolla-zze130-service-manual-2003-2008.pdf) page 1255.
 
