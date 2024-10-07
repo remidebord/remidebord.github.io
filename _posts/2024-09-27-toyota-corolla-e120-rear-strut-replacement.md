@@ -29,6 +29,11 @@ The effective costs for the replacement was ~220€ (less than the price of a To
 
 Thanks to Julien (self garage owner) for his precious help.
 
+<style>
+    .image-gallery { column-count: 4; }
+    img { width: 100%; height: auto; padding: 10px; }
+</style>
+
 <div class="image-gallery">
     <a href="{{ "/uploads/toyota/full/IMG_3776.JPG" | relative_url }}"><img src="{{ "/uploads/toyota/mini/IMG_3776.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/toyota/full/IMG_3777.JPG" | relative_url }}"><img src="{{ "/uploads/toyota/mini/IMG_3777.JPG" | relative_url }}"/></a>
