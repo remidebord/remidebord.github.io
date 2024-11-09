@@ -46,3 +46,8 @@ Thanks to Julien (self garage owner) for his precious help.
 </div>
 
 Note: unfortunately i don't have photos of the replacement.
+
+Links:
+- [Autodoc - Rear strut replacement](https://youtu.be/LApdLJzJ4Mk?si=QyeaerVrQRqx2olA)
+- [Yoshi parts - Toyota Corolla](https://yoshiparts.com/parts/car/toyota/diagrams/corolla_hb_jpp/zze121-zze121l_ahmdkw-eu-3zzfe-terra-mtm-5f-lhd-5d-hb-jpp-htwc?vin=JTDKZ20E100045308).
+- [Yato 1054 - Deep impact socket ](https://www.auto-doc.fr/yato/13639652)
