@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Archives
+title: Crypto
 external_link: https://coinmarketcap.com/fr/
 ---
