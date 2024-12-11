@@ -4,8 +4,6 @@ title: Links
 permalink: /links/
 ---
 
-\[ Links \]
-
 ### AI and image processing
 
 [Pixel Art scaler](https://lospec.com/pixel-art-scaler/) (upscaling for pixel art)  
