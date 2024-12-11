@@ -3,14 +3,17 @@
 
 
 /* Colors:
- * - blue: #9CDCFE
+ * - blue: #9CDCFE (links)
  * - brown skin: #CE9178
  * - orange: #F0AD4E
- * - gray: #C8C8C8
+ * - gray: #C8C8C8 (text)
  *
  * Backgrounds:
  * - Black light: #1F1F1F
  * - Black light+: #282828
+ * 
+ * Border:
+ * - Gray : #333
  */
 
 :root {
@@ -133,6 +136,7 @@ button:hover {
 
 table {
     border: 0px;
+    margin-bottom: 0px;
 }
 
 table td {
@@ -267,4 +271,9 @@ table th, table td {
 .tipue_search_content_bold {
     font-family: var(--base-font);
     color: var(--orange-color);
+}
+
+/* Google search */
+input.gsc-input {
+    background: var(--black-light-color);
 }
