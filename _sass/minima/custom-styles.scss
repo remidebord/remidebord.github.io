@@ -129,6 +129,10 @@ button, input {
     width: 100%;
 }
 
+.search-input textarea:focus, input:focus {
+    outline: none;
+}
+
 button:hover {    
     border-width: 1px;
     border-style: solid;
