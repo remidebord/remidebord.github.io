@@ -1,5 +1,4 @@
 <header class="site-header">
-
   <div class="wrapper-header">
         <nav class="site-nav">
           <ul>
@@ -21,10 +20,10 @@
                 </div>
             </li>
             <li><a href="https://coinmarketcap.com/fr/">Crypto</a></li>
-            <li><a rel="me" href="https://www.youtube.com/channel/{{ social.youtube_channel | cgi_escape | escape }}" target="_blank" title="{{ social.youtube_channel_name | escape | default: 'YouTube' }}">Radio</a></li>
-            <li><a href="/links/">links</a></li>
+            <li><a rel="me" href="https://www.youtube.com/channel/{{ social.youtube_channel | cgi_escape | escape }}">Radio</a></li>
+            <li><a href="/files/">Files</a></li>
             <li class="dropdown li-right">
-                <?php CreatePageLink("links", $page, $refresh); ?>
+              <li><a href="/links/">Links</a></li>
                 <div class="dropdown-content">
                     <p class="dropdown-header">Libre</p>
                       <a href="https://lwn.net/">LWN.net</a>
