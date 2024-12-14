@@ -161,10 +161,11 @@ table th, table td {
 }
 
 .site-title, .site-title:visited {
+
     font-size: inherit;
     font-weight: inherit;
     letter-spacing: initial;
-	color: var(--blue-color);
+	color: var(--blue-dark-color);
 }
 
 .site-nav {
