@@ -305,6 +305,14 @@ table th, table td {
     text-decoration: none;
 }
 
+#navbar .selected {
+    color: var(--orange-color);
+}
+
+#navbar .selected-decorate {
+    color: red;
+}
+
 /* Navbar - Dropdown menu */
 
 #navbar .dropdown-content {
