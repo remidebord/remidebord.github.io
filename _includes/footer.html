@@ -1,5 +1,17 @@
 <footer class="site-footer h-card">
-  <div><p>Copyright © 2007-2024 <a href="mailto:remidebord@hotmail.fr">Rémi Debord</a></div>
+  <div>
+    <p>
+      Copyright © 2007-2024
+      {% if site.author.email -%}
+        <a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+      {%- endif %}
+      <a href="{{ 'feed.xml' | relative_url }}">
+        <svg class="svg-icon orange">
+          <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+        </svg><span>Subscribe</span>
+      </a>
+    </p>
+  </div>
 </footer>
 
 <script type="text/javascript" src="{{ site.baseurl }}/plugins/lightbox/lightbox.js"></script>
