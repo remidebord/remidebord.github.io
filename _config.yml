@@ -54,8 +54,9 @@ minima:
 # Build settings
 theme: minima
 
-# Number of posts per page
+# Number of posts per page and blog path
 paginate: 19
+paginate_path: "/blog/page:num/"
 
 # Comments
 disqus:
