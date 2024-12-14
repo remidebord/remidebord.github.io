@@ -32,6 +32,7 @@
 
 body {        
     background-color: var(--black-light-color);
+    margin: 8px;
 }
 
 html, body, footer {
@@ -179,6 +180,7 @@ table th, table td {
 
 .site-footer {
     border-top: none /* 1px solid #333 */;
+    padding: 0;
 }
 
 .post-link:hover {
@@ -339,4 +341,18 @@ table th, table td {
 
 #navbar .li-right {
     float: right; /* Move Links and Files on the right side of the screen */
+}
+
+/* Footer */
+
+footer {
+	position:absolute;
+	
+    bottom:0;
+	left:0;
+	right:0;
+    
+    width:100%;
+    
+    text-align:center;    
 }
