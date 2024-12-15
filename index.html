@@ -8,6 +8,46 @@
 layout: home
 ---
 
-<form action=https://www.google.fr/search name=f>
-    <input class="search-input" maxlength=2048 name=q value="" title="Google" autocomplete="off" placeholder="Lycos, go get it !" autofocus>
-</form>
+<div class="search">
+    <form action=https://www.google.fr/search name=f>
+        <input class="search-input" maxlength=2048 name=q value="" title="Google" autocomplete="off" placeholder="Lycos, go get it !" autofocus>
+    </form>
+</div>
+
+<div class="news">
+    <script>
+    const RSS_URL = `https://next.ink/feed/nobrief?rsskey=76815-40f88a5a-2337-4501-8efd-ace218783a04`;
+
+    fetch(RSS_URL)
+    .then(response => response.text())
+    .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+    .then(data => {
+        const items = data.querySelectorAll("item");
+        const titleMaxLength = 100;
+        let maxItems = 6;
+        let html = ``;
+    
+        if (items.length < maxItems) {
+        maxItems = items.length;
+        }
+        
+        for (var i = 0; i < maxItems; i++) {
+        item = items[i];
+        const d = new Date(item.querySelector("pubDate").innerHTML);
+        const day = d.getDate();
+        const month = d.getMonth();
+        const link = item.querySelector("link").innerHTML;
+        let title = item.querySelector("title").innerHTML;
+        
+        console.log(title.length);
+        if (title.length > titleMaxLength) {
+            title = title.slice(0, titleMaxLength) + "...";
+        }
+        
+        html += `${day}/${month} <a href="${link}">${title}</a><br>`;
+        }
+
+        document.body.insertAdjacentHTML("beforeend", html);
+    });
+    </script>
+</div>
