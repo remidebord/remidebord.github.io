@@ -47,7 +47,8 @@ layout: home
         html += `${day}/${month} <a href="${link}">${title}</a><br>`;
         }
 
-        document.body.insertAdjacentHTML("beforeend", html);
+        var element = document.getElementsByClassName("news")[0];
+        element.insertAdjacentHTML("beforeend", html);
     });
     </script>
 </div>
