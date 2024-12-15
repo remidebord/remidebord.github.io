@@ -23,7 +23,7 @@ layout: home
     .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
     .then(data => {
         const items = data.querySelectorAll("item");
-        const titleMaxLength = 100;
+        const titleMaxLength = 86;
         let maxItems = 6;
         let html = ``;
     
