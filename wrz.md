@@ -36,3 +36,4 @@ exclude_from_search: true
 [DODI Repack](https://dodi-repacks.site/) (Games)  
 [Playstation ParadiZe](http://www.psxrenzukoken.com/) (PSX ISO)  
 [SonSivri](http://www.sonsivri.to/) Electronic CAD/IDE softwares
+[test](data:text/plain;base64,aGVsbG8=)
