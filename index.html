@@ -15,40 +15,5 @@ layout: home
 </div>
 
 <div class="news">
-    <script>
-    const RSS_URL = `https://next.ink/feed/nobrief?rsskey=76815-40f88a5a-2337-4501-8efd-ace218783a04`;
-
-    fetch(RSS_URL)
-    .then(response => response.text())
-    .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
-    .then(data => {
-        const items = data.querySelectorAll("item");
-        const titleMaxLength = 82;
-        let maxItems = 6;
-        let html = ``;
-    
-        if (items.length < maxItems) {
-        maxItems = items.length;
-        }
-        
-        for (var i = 0; i < maxItems; i++) {
-        item = items[i];
-        const d = new Date(item.querySelector("pubDate").innerHTML);
-        const day = d.getDate();
-        const month = d.getMonth();
-        const link = item.querySelector("link").innerHTML;
-        let title = item.querySelector("title").innerHTML;
-        
-        console.log(title.length);
-        if (title.length > titleMaxLength) {
-            title = title.slice(0, titleMaxLength) + "...";
-        }
-        
-        html += `${day}/${month} <a href="${link}">${title}</a><br>`;
-        }
-
-        var element = document.getElementsByClassName("news")[0];
-        element.insertAdjacentHTML("beforeend", html);
-    });
-    </script>
+    <script type="text/javascript" src="{{ site.baseurl }}/plugins/news.js"></script>
 </div>
