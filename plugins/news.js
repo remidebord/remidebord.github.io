@@ -32,11 +32,10 @@ fetch(RSS_URL)
         }
 
         html += `${day}/${month} <a href="${link}">${title}</a><br>`;
-
-        /* replace div content */
-        element.innerHTML = html;
     }
 
     var element = document.getElementsByClassName("news")[0];
-    element.insertAdjacentHTML("beforeend", html);
+
+    /* replace div content */
+    element.innerHTML = html;
 });
