@@ -24,7 +24,7 @@ exclude_from_search: true
 <a href="https://www.sea&#x72;ch&#x66;tps.net/">Nap&#x61;lm &#x66;tp</a> (&#x66;tp indexer, a bit old…)<br />
 <a href="https://www.mmnt.&#x72;u/int/">Mam&#x6f;nt &#x66;tp</a><br />
 <a href="http://s&#x63;ene-&#x72;ls.net/">S&#x63;ene &#x72;elease</a><br />
-<a href="https://www.&#x64;&#x64;lvalle&#x79;.me/">d&#x64;&#x64;l Valle&#x79;</a><br />
+<a href="https://www.&#x64;&#x64;lvalle&#x79;.me/">d&#x64;l Valle&#x79;</a><br />
 <a href="https://www.s&#x6b;id&#x72;o&#x77;&#x72;eloaded.com/">S&#x6b;id&#x72;o&#x77; C&#x6f;dex</a> (&#x47;ames)<br />
 <a href="https://www.e&#x6c;ami&#x67;os-&#x67;ames.com/">El Ami&#x67;os</a> (&#x47;ames)<br />
 <a href="https://i&#x67;&#x67;-&#x67;ames.com/">I&#x67;&#x67; &#x47;ames</a><br />
