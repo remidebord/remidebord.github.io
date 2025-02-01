@@ -15,6 +15,7 @@ exclude_from_search: true
 <a href="https://n&#x79;aa.si/">n&#x79;aa.si</a> (&#x41;nimes)<br />
 <a href="https://d&#x72;ive.google.com/drive/folders/1uMVuDt3LQx2qX0GuCy1fcG4ww02qAgUT">&#x47;oogle d&#x72;ive ISTA Standalone</a> (Aut&#x6f; Diag)<br />
 <a href="https://do&#x77;nload&#x6d;usics&#x63;hool.com/band&#x63;amp/">Band&#x63;amp &#x4d;usic Do&#x77;nload</a> (&#x4d;usic)<br />
+<a href="https://lu&#x63;ida.to/">Sound&#x63;loud &#x4d;usic Do&#x77;nload</a> (&#x4d;usic)<br />
 <a href="https://www.&#x79;tmp&#x33;.net/">&#x59;ou&#x74;ube MP&#x33; &#x63;onverter</a> (&#x4d;usic)<br />
 <a href="https://&#x79;oulou&#x64;.&#x72;u/">&#x59;oulu&#x64;.&#x72;u</a> (&#x4d;usic)<br />
 <a href="https://www.see&#x64;&#x72;.cc/">See&#x64;&#x72;</a> (See&#x64;box for to&#x72;&#x72;ent)<br />
