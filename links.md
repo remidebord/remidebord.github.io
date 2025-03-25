@@ -19,7 +19,7 @@ permalink: /links/
 
 ### Art and Craftsmanship
 
-[Roy Sac](www.roysac.com) (ASCII Art)  
+[Roy Sac](https://www.roysac.com/) (ASCII Art)  
 [Defacto2](https://defacto2.net/) (ASCII, NFO Art & Text Encodings)  
 [Sixteen Colors](https://16colo.rs/) (Archive of ANSI and ASCII art)  
 [Volpin Props](http://volpinprops.blogspot.com/2010/07/daft-punk-final.html) (Homemade Daft Punk Helmet replica, see also [\[1\]](https://www.therpf.com/forums/threads/thomas-bangalter-daft-punk-helmet-build-v2.157320/), [\[2\]](https://www.instructables.com/Building-a-Daft-Punk-helmet-with-programmable-LED-/), [\[3\]](http://www.timbottchen.com/feed/building-daftpunk-helmet), [\[4\]](http://www.love-props.com/en/blog-love-props))  
@@ -34,7 +34,7 @@ permalink: /links/
 ### Bike
 
 [Vintage Cycling Database](https://velobase.com/)  
-[Baudou Bikes](https://www.baudou-bikes.ovh/)  
+[Baudou Bikes](http://baudou-bikes.com/)  
 [Grenaillage Metallisation Thermolaquage](https://gmt31.com/)  
 [Motobecane Profil 2 stickers](https://www.ebay.fr/itm/332536985397)  
 [AllStickers](https://allstickers.fr/)  
@@ -72,7 +72,7 @@ permalink: /links/
 [Migratory Bird Center](http://scbi-migbirds.github.io/Geolocator_GeoLight.html) (Light-Level geolocator, see also: [\[1\]](http://liu.diva-portal.org/smash/get/diva2:606554/FULLTEXT01.pdf), [\[2\]](https://hackaday.io/project/28550-light-level-geolocator))  
 [PCBWay](https://www.pcbway.fr/pcb_prototype/PCB_Sideplating.html) (PCB Prototype)  
 [JLC PCB](https://jlcpcb.com/) (PCB Prototype)  
-[JLC PCB](https://www.eurocircuits.com/) (High quality PCB Prototype)  
+[Euro circuits](https://www.eurocircuits.com/) (High quality PCB Prototype)  
 [Negative copper with KiCad](https://medium.com/the-bkpt/negative-copper-art-in-kicad-d9fae03d9996)  
 [PCB business card](https://antoine.doussaud.org/business_card_bom) (nice PCB and BOM rendering)  
 [Hack A day](https://hackaday.com/) (Electronic projects)  
@@ -93,7 +93,7 @@ permalink: /links/
 [Star Wars Universe](https://www.starwars-universe.com/) (News about movies, TV show, books, games, ...)  
 [Unknown Cheats](https://www.unknowncheats.me/forum/star-wars-battlefront/165783-star-wars-battlefront-create-simple-esp.html) (Game cheats with source code, see also: [\[1\]](https://guidedhacking.com/), [\[2\]](https://github.com/wtsxDev/reverse-engineering))  
 [NoFrag](https://nofrag.com/) (News about FPS games)  
-[NoFrag](https://www.ffdream.com/) (News about Final Fantasy games)  
+[FF Dream](https://www.ffdream.com/) (News about Final Fantasy games)  
 [La pérégrination vers l'Ouest](https://www.leslibraires.fr/livre/589992-la-peregrination-vers-l-ouest-1-livres-i-x--wu-cheng-en-gallimard)  
 
 ### House construction and tools
@@ -196,7 +196,7 @@ permalink: /links/
 [The Things Network Console](https://console.cloud.thethings.network/)  
 [Tetaneutral.net](https://docs.lora.tetaneutral.net/gateways/imst/) (Free LoRaWan network using Chirpstack as network server)  
 [PyBoy](https://github.com/Baekalfen/PyBoy) (Game Boy emulator written in Python)  
-[PyBoy](http://sdz.tdct.org/sdz/manipulez-les-paquets-reseau-avec-scapy.html) (Manipulate network packet with the Python libray Scapy)  
+[Scapy](http://sdz.tdct.org/sdz/manipulez-les-paquets-reseau-avec-scapy.html) (Manipulate network packet with the Python libray Scapy)  
 [Reds](https://blog.reds.ch/?p=1379) (Accessing the RAM of a QEMU Emulated System from another Process)  
 [Luigi Auriemma](https://aluigi.altervista.org/quickbms.htm) (Reverse engineering tools, not only for games)  
 [airbus-seclab](https://airbus-seclab.github.io/qemu_blog/devices.html) (A deep dive into QEMU: adding devices)  
