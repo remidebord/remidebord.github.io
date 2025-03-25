@@ -5,7 +5,7 @@ permalink: /wrz/
 exclude_from_search: true
 ---
 
-<a href="https://www.&#x77;a&#x77;a&#x63;ity.to&#x6b;yo/">Wa&#x77;a&#x63;ity</a> (M&#x6f;vies, TV sh&#x6f;w, &#x47;ames)<br />
+<a href="https://www.&#x77;a&#x77;a&#x63;ity.tips/">Wa&#x77;a&#x63;ity</a> (M&#x6f;vies, TV sh&#x6f;w, &#x47;ames)<br />
 <a href="https://www.ext&#x72;eme-do&#x77;n.tools/">Ext&#x72;em-do&#x77;n</a> (M&#x6f;vies, TV sh&#x6f;w, &#x47;ames)<br />
 <a href="https://da&#x72;&#x6b;iworld7.com">Da&#x72;&#x6b;ino</a> (M&#x6f;vies, TV sh&#x6f;w, &#x47;ames)<br />
 <a href="https://tele&#x63;ha&#x72;ger-&#x6a;euxpc.fr/">Tele&#x63;ha&#x72;ge&#x72; &#x6a;eux-PC</a> (PC &#x47;ames)<br />
