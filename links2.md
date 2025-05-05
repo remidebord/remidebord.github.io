@@ -32,4 +32,4 @@ exclude_from_search: true
 <a href="https://dodi-repacks.site/">DODO</a><br />
 <a href="https://www.psxrenzukoken.com/">Playstation Paradize</a><br />
 <a href="http://redump.org/">ReDump Disc Preservation Project</a> (ROMs)<br />
-<a href="https://www.sonsivri.to/">SonSivri</a> Electronic CAD/IDE softwares<br /></p>
+<a href="https://www.sonsivri.to/">SonSivri</a> Electronic CAD/IDE softwares<br />
