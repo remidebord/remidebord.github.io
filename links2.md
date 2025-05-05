@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Wrz
-permalink: /wrz/
+title: Links2
+permalink: /links2/
 exclude_from_search: true
 ---
 
