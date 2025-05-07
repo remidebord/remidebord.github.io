@@ -41,17 +41,22 @@ exclude_from_search: true
 
 	// Loop through each string
 	lobfLinks.forEach((item) => {
-		// Decode the Base64 string
-		const decodedUrl = atob(item.textContent.trim());
+		item.addEventListener("mouseover", () => {
+			// Check if the item has already been converted
+			if (!item.dataset.converted) {
+				// Decode the Base64 string
+				const decodedUrl = atob(item.textContent.trim());
 		
-		// Create a clickable link
-		const link = document.createElement("a");
-		link.href = decodedUrl;
-		link.textContent = decodedUrl;
-		link.target = "_blank"; // Open in a new tab
+				// Create a clickable link
+				const link = document.createElement("a");
+				link.href = decodedUrl;
+				link.textContent = decodedUrl;
+				link.target = "_blank"; // Open in a new tab
 
-		// Replace the list item content with the link
-		item.textContent = ""; // Clear the existing text
-		item.appendChild(link);
+				// Replace the list item content with the link
+				item.textContent = ""; // Clear the existing text
+				item.appendChild(link);
+			}
+		});
 	});
 </script>
