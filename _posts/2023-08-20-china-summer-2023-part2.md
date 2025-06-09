@@ -6,7 +6,7 @@ comments: true
 tipue_search_active: true
 ---
 
-Cette page fait suite à la première partie, voir [China summer 2023 part 1 (Pekin - LuoYang - Guilin)]({{ site.baseurl }}{% link _posts 2023-08-20-china-summer-2023-part1.md %})
+Cette page fait suite à la première partie, voir [China summer 2023 part 1 (Pekin - LuoYang - Guilin)]({% link _posts/2023-08-20-china-summer-2023-part1.md %})
 
 ### Jour 17 - Guilin - Lijiang
 
