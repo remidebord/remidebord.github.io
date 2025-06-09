@@ -794,4 +794,6 @@ Journée en famille, ravitaillement avant notre départ pour le Yunnan et balade
     <a href="{{ "/uploads/china/full/watermarked-2023-08-03-19h28m32.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-03-19h28m32.JPG" | relative_url }}"/></a>
 </div>
 
-La suite du voyage est disponible via [China summer 2023 part 2 (Guilin - Lijiang - Dali - Canton - Hong Kong)](2023-08-20-china-summer-2023-part2.md).
+
+
+La suite du voyage est disponible via [China summer 2023 part 2 (Guilin - Lijiang - Dali - Canton - Hong Kong)]({{ site.baseurl }}{% link _posts 2023-08-20-china-summer-2023-part2.md %}).

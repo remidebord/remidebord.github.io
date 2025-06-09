@@ -1,18 +1,23 @@
 ---
 layout: post
-title: "China summer 2023 part 2 (Guilin - Lijiang - Dali - Canton -Hong Kong)"
+title: "China summer 2023 part 2 (Guilin - Lijiang - Dali - Canton - Hong Kong)"
 author: 'Rémi Debord'
 comments: true
 tipue_search_active: true
 ---
 
-Cette page fait suite à la première partie, voir [China summer 2023 part 1 (Pekin - LuoYang - Guilin)](2023-08-20-china-summer-2023-part1.md)
+Cette page fait suite à la première partie, voir [China summer 2023 part 1 (Pekin - LuoYang - Guilin)]({{ site.baseurl }}{% link _posts 2023-08-20-china-summer-2023-part1.md %})
 
 ### Jour 17 - Guilin - Lijiang
 
 Pour rejoindre Lijiang nous prenons exceptionnellement un vol intérieur via la compagnie Xiamen Airlines depuis le nouvel aéroport de Guilin, auquel nous nous rendons via taxi.
 Le prix pour la première classe étant plus intéressant que le tarif normal (340€ pour deux personnes en plein mois d'août...), nous avons opté pour cette dernière, l'avantage étant que l'espace réservé aux clients "business" à l'aéroport permet de se restaurer (sodas, snacks, ...) complètement, surtout quand on a pas pris de petit déjeuner.
 L'avion part peu après 10h, un repas est servis vers la moitié du trajet puis nous attérissons à Lijiang aux alentours de midi.
+
+<style>
+    .image-gallery { column-count: 4; }
+    img { width: 100%; height: auto; padding: 10px; }
+</style>
 
 <div class="image-gallery">
     <a href="{{ "/uploads/china/full/watermarked-2023-08-04-08h41m09.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-04-08h41m09.JPG" | relative_url }}"/></a>
