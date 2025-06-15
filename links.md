@@ -85,6 +85,7 @@ permalink: /links/
 [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) (Intercative BOM and PCB layout)  
 [Nixie clock](https://nixieclock.org/?p=36) (PCB is a piece of art)
 [Evil Monky](https://www.evilmonkeyzdesignz.com/new-products/pcbcoin-coming-soon) (Nice PCB coin designs)
+[Mouse Switch Master Sheet](https://docs.google.com/spreadsheets/u/0/d/1x9iUvx3j2GiWwj_o2_jmsofY0Hoppg26QWolg-_Uaj4/htmlview?pli=1)
 
 ### Food and drinks
 
