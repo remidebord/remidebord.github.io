@@ -22,7 +22,9 @@ permalink: /links/
 [Roy Sac](https://www.roysac.com/) (ASCII Art)  
 [Defacto2](https://defacto2.net/) (ASCII, NFO Art & Text Encodings)  
 [Sixteen Colors](https://16colo.rs/) (Archive of ANSI and ASCII art)  
-[Volpin Props](http://volpinprops.blogspot.com/2010/07/daft-punk-final.html) (Homemade Daft Punk Helmet replica, see also [\[1\]](https://www.therpf.com/forums/threads/thomas-bangalter-daft-punk-helmet-build-v2.157320/), [\[2\]](https://www.instructables.com/Building-a-Daft-Punk-helmet-with-programmable-LED-/), [\[3\]](http://www.timbottchen.com/feed/building-daftpunk-helmet), [\[4\]](http://www.love-props.com/en/blog-love-props))  
+[Volpin Props](http://volpinprops.blogspot.com/2010/07/daft-punk-final.html) (Homemade Daft Punk Helmet replica, see also [\[1\]](https://www.therpf.com/forums/threads/thomas-bangalter-daft-punk-helmet-build-v2.157320/), [\[2\]](https://www.instructables.com/Building-a-Daft-Punk-helmet-with-programmable-LED-/), [\[3\]](http://www.timbottchen.com/feed/building-daftpunk-helmet), [\[4\]](http://www.love-props.com/en/blog-love-props))
+[MrBaddeley Printed Droid](https://www.facebook.com/groups/mrbaddeley) (R2D2 and other droids build)
+[MADCAT 3D](https://madcat3d.company.site/) (3D printed droid builds)
 [RPF](https://www.therpf.com/forums/) (RPF Costume and Prop Maker Community)  
 [It's Nice That](https://www.itsnicethat.com/) (Photography and graphic design)  
 [Mark Flipse](https://www.markflipse.com/) (Bulp lights)  
@@ -81,7 +83,8 @@ permalink: /links/
 [Electronic-Lab](https://www.electronics-lab.com/blog/) (Electronic components blog)  
 [PCB Buy](https://www.pcbbuy.com/) (Another PCB manufacturer for colored pcb)  
 [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) (Intercative BOM and PCB layout)  
-[Nixie clock](https://nixieclock.org/?p=36) (PCB is a piece of art)  
+[Nixie clock](https://nixieclock.org/?p=36) (PCB is a piece of art)
+[Evil Monky](https://www.evilmonkeyzdesignz.com/new-products/pcbcoin-coming-soon) (Nice PCB coin designs)
 
 ### Food and drinks
 
