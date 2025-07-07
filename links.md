@@ -32,6 +32,7 @@ permalink: /links/
 [Graffiti Research Lab](https://graffitiresearchlab.com/blog/) (Graffiti and open source tools)  
 [F.A.T Lab](https://fffff.at/) (Free Art and Technology Lab)  
 [METMO](https://www.metmo.co.uk/) (high precision CNC, known for the cube)  
+[Strudel](https://strudel.cc/workshop/getting-started/) (Language for Music creations)
 
 ### Bike
 
@@ -63,6 +64,21 @@ permalink: /links/
 [Analog Cycles](https://analogcycles.com/collections/components)  
 [Wolf tooth chainrings](https://www.wolftoothcomponents.com/collections/gravel-cyclocross-road/products/130-bcd-cyclocross-chainrings)  
 [Brompton saddle clamp](https://www.fantastic4toys.com/products/h-h-carbon-or-normal-saddle-clamp-for-brompton-bicycle?variant=36898557690022)  
+[Botch Cargo Bikes](https://www.botch-cargobikes.fr/) (Reused Cargo, a bit pricey...)
+
+### Peoples (or why i like the internet)
+[David Marec](https://dmarec.fr/)
+[Daniel Andrade](https://danielandrade.net/)
+[Emma Jean](https://emmajeanstravels.com/xingping-to-shawan-hike/) (China hikes)
+[Fat Kittten](https://fatkitten.art/)
+[Fredrik Hubbe](https://fredrik.hubbe.net/) (Open source lightsaber)
+[Furrtek](https://www.furrtek.org/)
+[Ferdinand Piette](https://www.ferdinandpiette.com/blog/)
+[The Grug Brained Developer](https://grugbrain.dev/)
+[Jared Sanson](https://jared.geek.nz/)
+[Kevin Rye](https://kevinrye.net/) (R2D2)
+[Kevin Hartzell](https://matthartzell.blogspot.com/2014/06/lijiang-to-lugu-lake-bike-ride.html?view=sidebar)
+[Tix le geek](https://tixlegeek.io/)
 
 ### Electronic and PCB
 
@@ -154,6 +170,7 @@ permalink: /links/
 [Artemide](https://www.artemide.com/en/subfamily/4746318/alphabet-of-light-system) (expensive lights)  
 [Web3 is Going Great](https://web3isgoinggreat.com/) (news about exploit and crisis in the crypto world)  
 [logosbynick.com](https://logosbynick.com/inkscape-convert-png-to-svg/) (convert png to svg)  
+[Kakapo Recovery](https://www.doc.govt.nz/our-work/kakapo-recovery/) (The famous Kakapo)
 
 ### Mountaineering
 
@@ -206,7 +223,9 @@ permalink: /links/
 [airbus-seclab](https://airbus-seclab.github.io/qemu_blog/devices.html) (A deep dive into QEMU: adding devices)  
 [Xilinx wiki](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/861569267/QEMU+Device+Model+Development) (QEMU Device Model Development)  
 [EmbeTronicX](https://embetronicx.com/) (website about driver development and embedded)  
-[kroah.com](http://www.kroah.com/lkn/) (Linux Kernel in a Nutshell)  
+[kroah.com](http://www.kroah.com/lkn/) (Linux Kernel in a Nutshell)
+[Diving into Starlink's User Terminal Firmware](https://blog.quarkslab.com/starlink.html)
+[Tiny GS](https://tinygs.com/) (Open source global satellite network)
 
 ### Web shop
 
@@ -219,3 +238,5 @@ permalink: /links/
 [Thomann.de](https://www.thomann.de/fr/peli_1510000110.htm) (Music store with affordable products like Peli cases)  
 [HobbyKing](https://hobbyking.com/) (Motors and batteries)  
 [BaoFeng](https://baofeng.fr/talkie-walkie/baofeng-uv-5r-8-watts.html) (Famous talkie-walkie)  
+[Notebook Check}](https://www.notebookcheck.net/) (Laptop and notebook tests and buying guides)
+[Hitonas](https://hitonas.com/fr) (Men sandals)
