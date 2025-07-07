@@ -66,21 +66,6 @@ permalink: /links/
 [Brompton saddle clamp](https://www.fantastic4toys.com/products/h-h-carbon-or-normal-saddle-clamp-for-brompton-bicycle?variant=36898557690022)  
 [Botch Cargo Bikes](https://www.botch-cargobikes.fr/) (Reused Cargo, a bit pricey...)  
 
-### Peoples (or why i like the internet)
-
-[David Marec](https://dmarec.fr/)  
-[Daniel Andrade](https://danielandrade.net/)  
-[Emma Jean](https://emmajeanstravels.com/xingping-to-shawan-hike/) (China hikes)  
-[Fat Kittten](https://fatkitten.art/)  
-[Fredrik Hubbe](https://fredrik.hubbe.net/) (Open source lightsaber)  
-[Furrtek](https://www.furrtek.org/)  
-[Ferdinand Piette](https://www.ferdinandpiette.com/blog/)  
-[The Grug Brained Developer](https://grugbrain.dev/)  
-[Jared Sanson](https://jared.geek.nz/)  
-[Kevin Rye](https://kevinrye.net/) (R2D2)  
-[Kevin Hartzell](https://matthartzell.blogspot.com/2014/06/lijiang-to-lugu-lake-bike-ride.html?view=sidebar)  
-[Tix le geek](https://tixlegeek.io/)  
-
 ### Electronic and PCB
 
 [Arduboy](https://arduboy.com/) (Arduino GameBoy like)  
@@ -190,6 +175,21 @@ permalink: /links/
 [Geoportail - Avalanches map](https://www.geoportail.gouv.fr/carte?c=1.0831305680742156,42.79078985148959&z=13&l0=GEOGRAPHICALGRIDSYSTEMS.MAPS::GEOPORTAIL:OGC:WMTS(1)&l1=GEOGRAPHICALGRIDSYSTEMS.SLOPES.MOUNTAIN::GEOPORTAIL:OGC:WMTS(0.66)&permalink=yes) to check before a winter expe  
 [Meteo France mountain weather](https://meteofrance.com/meteo-montagne/pyrenees)  
 [Ariege road informations](https://www.inforoute09.fr/)  
+
+### Peoples (or why i like the internet)
+
+[David Marec](https://dmarec.fr/)  
+[Daniel Andrade](https://danielandrade.net/)  
+[Emma Jean](https://emmajeanstravels.com/xingping-to-shawan-hike/) (China hikes)  
+[Fat Kittten](https://fatkitten.art/)  
+[Fredrik Hubbe](https://fredrik.hubbe.net/) (Open source lightsaber)  
+[Furrtek](https://www.furrtek.org/)  
+[Ferdinand Piette](https://www.ferdinandpiette.com/blog/)  
+[The Grug Brained Developer](https://grugbrain.dev/)  
+[Jared Sanson](https://jared.geek.nz/)  
+[Kevin Rye](https://kevinrye.net/) (R2D2)  
+[Kevin Hartzell](https://matthartzell.blogspot.com/2014/06/lijiang-to-lugu-lake-bike-ride.html?view=sidebar)  
+[Tix le geek](https://tixlegeek.io/)  
 
 ### Software development
 
