@@ -44,7 +44,7 @@ La pluie étant plus présente, nous retournons à l'auberge afin de revoir l'it
 Ce jour est un prélude aux gorges du saut du tigre, une mise en jambe pour voir si nous nous acclimatons correctement.
 L'idée est de randonner à proximité du mont Yulong en partant de Yuhu et de grimper jusqu'à une altitude test (?), sachant que l'itinéraire est peu fréquenté et n'est connus que des randonneurs avertis (loin de la foule qui se rends au mont Yulong en téléphérique avec leurs bouteilles d'oxygène...).
 
-[![Yuhu trek](../../../uploads/china/full/watermarked-2023-08-05-10h46m00.JPG)](../../../uploads/china/full/watermarked-2023-08-05-10h46m00.JPG)
+[![Yuhu trek](../../../uploads/china/full/watermarked-2023-08-05-10h46m00.jpg)](../../../uploads/china/full/watermarked-2023-08-05-10h46m00.jpg)
 
 Pour ce faire, nous prenons le bus N17 depuis un arrêt situé au nord de la vieille ville (~25 minutes de marche).
 Nous arrivons dans le village de Yuhu vers 10h, et à partir de ce moment là nous auront une pluie torrentielle en continue.

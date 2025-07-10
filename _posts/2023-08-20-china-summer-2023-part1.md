@@ -674,7 +674,7 @@ Après une quinzaine de minutes nous redescendons pour traverser la rivière Li 
 
 Nous partons de l'hôtel vers 8h30, la randonnée du jour nous fait relier Xingping à Yangdi (~16km), le chemin alterne entre les deux rives, ce qui signifie plusieurs traversées en bateau. Il y a peu de dénivelé (<500m), l'idée étant de se dégourdir les jambes avant de partir dans le Yunnan, et de profiter de la campagne environnante puisque la première fois que nous étions venu, nous avions descendu la rivière Li en bateau depuis Guilin jusqu'à Yuangsho.
 
-[![xingping trek](../../../uploads/china/full/watermarked-2023-08-01-08h44m00.JPG)](../../../uploads/china/full/watermarked-2023-08-01-08h44m00.JPG)
+[![xingping trek](../../../uploads/china/full/watermarked-2023-08-01-08h44m00.jpg)](../../../uploads/china/full/watermarked-2023-08-01-08h44m00.jpg)
 
 Le départ de la randonnée s'effectue sur l'autre rive donc nous reprenons un bateau, puis allons à l'épicerie chercher de quoi manger.
 Le chemin que nous allons emprunter n'est pas balisé, et c'est donc tout naturellement que nous manquerons le départ, pour rattraper le chemin 1km plus loin.
