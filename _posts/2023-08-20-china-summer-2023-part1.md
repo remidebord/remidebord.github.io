@@ -720,7 +720,6 @@ Les enfants essayent d'attraper de minuscules écrevisses avec leurs épuisettes
     <a href="{{ "/uploads/china/full/watermarked-2023-08-01-11h12m34.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-11h12m34.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/china/full/watermarked-2023-08-01-11h19m34.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-11h19m34.JPG" | relative_url }}"/></a>
     <a href="{{ "/uploads/china/full/watermarked-2023-08-01-11h22m13.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-11h22m13.JPG" | relative_url }}"/></a>
-    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-11h22m26.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-11h22m26.JPG" | relative_url }}"/></a>
 </div>
 
 A partir de ce point, nous ne croiserons plus personne.
