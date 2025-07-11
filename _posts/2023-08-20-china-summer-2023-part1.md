@@ -728,7 +728,15 @@ La végétation a quasimment recouvert le chemin aménagé de galets, les divers
 Sur les coups de midi, nous faisons une pause sur une partie dégagée du chemin, et à proximité immédiate de la rivière Li.
 Au menu, du snacking encore et toujours (mini saucisse, boeuf séché, fromage, noix de cajou), avec en complément les bananes locales, littéralement appelées "pomme banane" de part leur aspect (on notera la perspective avec les monts derrière).
 
-TODO: ajouter photos
+<div class="image-gallery">
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-11h36m25.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-11h36m25.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-11h36m39.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-11h36m39.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-11h40m55.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-11h40m55.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-11h41m05.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-11h41m05.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-11h46m04.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-11h46m04.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-12h00m04.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-12h00m04.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-12h15m07.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-12h15m07.JPG" | relative_url }}"/></a>
+</div>
 
 Le chemin nous fait sortir de la forêt, qui laisse place à de nombreuse plantations (maïs, courges, melons d'hiver?, mangues et autres fruits).
 Nous croisons plusieurs personnes munis de pelles récoltant des arachides, puis traversons le village.
