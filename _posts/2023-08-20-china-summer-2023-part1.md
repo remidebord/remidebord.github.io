@@ -712,7 +712,16 @@ A l'intérieur de la distillerie l'alcool est proposé à la dégustation, et co
 Après un court arrêt nous continuons notre route tout en admirant la végétation luxuriante, jusqu'à atteindre un second lieu prisé des touristes car offrant la possibilité de prendre des photos, manger (activité favorite des chinois).
 Les enfants essayent d'attraper de minuscules écrevisses avec leurs épuisettes, et les parents sur leurs chaises de camping profitent du lieu tout en ayant les pieds dans l'eau. 
 
-TODO: ajouter photos
+<div class="image-gallery">
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-10h42m26.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-10h42m26.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-10h44m46.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-10h44m46.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-10h49m07.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-10h49m07.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-11h11m23.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-11h11m23.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-11h12m34.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-11h12m34.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-11h19m34.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-11h19m34.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-11h22m13.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-11h22m13.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-11h22m26.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-11h22m26.JPG" | relative_url }}"/></a>
+</div>
 
 A partir de ce point, nous ne croiserons plus personne.
 Ce qui est frappant est la taille des papillons (les quelques photos ne leur rendent pas justice vu leur taille) et des chenilles que nous rencontrons
