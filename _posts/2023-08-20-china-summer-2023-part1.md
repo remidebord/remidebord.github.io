@@ -744,18 +744,41 @@ On remarque notre présence, et une personne qui s'attarde sur nos visages réal
 Par chance, une des personnes qui se trouve dans le regroupement s'avère être conducteur du bateau que nous devons emprunter pour retrouver l'autre rive.
 Nous quittons le village accompagné du conducteur qui nous explique que le chemin de randonnée était (avant le covid) assez fréquenté, mais que depuis, le changement des comportements des touristes chinois et la détérioration du chemin (pour laquelle ils ont était sanctionné), les visiteurs se font rare.
 
-TODO: ajouter photos
+<div class="image-gallery">
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-12h39m08.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-12h39m08.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-12h39m13.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-12h39m13.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-12h40m42.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-12h40m42.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-12h43m39.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-12h43m39.JPG" | relative_url }}"/></a>
+</div>
 
 Quelques minutes plus tard nous traversons la rivière et retrouvons un chemin en bien meilleur état, probablement parce que ce dernier dessert bon nombre de cultures.
 Nous tombons sur des fruits formant des multitudes de grappes, ce qui nous interpelle puisque la veille nous les avions vu au dîner, et un cousin en avait fait la promotion suite à la publicité d'un producteur local sur TikTok.
 En continuant, nous arrivons dans un autre village, où nous ne croiserons personne, mais qui comporte (fait rare, car souvent remplacé par du neuf), une batîsse ancienne où trône encore à l'intérieur de vieilles affiches de Mao.
 Le piment est entrain de sêcher au niveau de la façade, ce qui contraste avec le ton de la pierre.
 
-TODO: ajouter photos
+<div class="image-gallery">
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-12h56m11.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-12h56m11.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-12h56m22.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-12h56m22.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-13h00m42.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-13h00m42.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-13h03m17.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-13h03m17.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-13h07m12.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-13h07m12.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-13h08m43.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-13h08m43.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-13h20m09.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-13h20m09.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-13h20m12.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-13h20m12.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-13h20m39.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-13h20m39.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-13h20m48.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-13h20m48.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-13h21m59.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-13h21m59.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-13h22m06.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-13h22m06.JPG" | relative_url }}"/></a>
+</div>
 
 En quittant le village nous aperçevons une cascade située sur l'autre rive, dotée d'un débit assez important, nous notons l'emplacement (24.969805586963087, 110.44796953430686) pour explorer le coin lors d'une future randonnée.
 
-TODO: ajouter photos
+
+<div class="image-gallery">
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-13h24m05.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-13h24m05.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-13h27m56.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-13h27m56.JPG" | relative_url }}"/></a>
+    <a href="{{ "/uploads/china/full/watermarked-2023-08-01-13h28m29.JPG" | relative_url }}"><img src="{{ "/uploads/china/mini/resized-2023-08-01-13h28m29.JPG" | relative_url }}"/></a>
+</div>
 
 Nous prenons sur la gauche en sortie du village pour longer la rivière et rester sous les arbres, puis 15 minutes plus tard nous arrivons à l'embarcadère, avec en fond la ville de Yangdi.
 Cette fois-ci nous ne sommes pas seuls, puisque un homme et son fils attendent également le bateau pour traverser.
