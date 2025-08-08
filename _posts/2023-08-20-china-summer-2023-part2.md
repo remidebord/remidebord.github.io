@@ -12,7 +12,7 @@ Cette page fait suite à la première partie, voir [China summer 2023 part 1 (Pe
 
 Pour rejoindre Lijiang nous prenons exceptionnellement un vol intérieur via la compagnie Xiamen Airlines depuis le nouvel aéroport de Guilin, auquel nous nous rendons via taxi.
 Le prix pour la première classe étant plus intéressant que le tarif normal (340€ pour deux personnes en plein mois d'août...), nous avons opté pour cette dernière, l'avantage étant que l'espace réservé aux clients "business" à l'aéroport permet de se restaurer (sodas, snacks, ...) complètement, surtout quand on a pas pris de petit déjeuner.
-L'avion part peu après 10h, un repas est servis vers la moitié du trajet puis nous attérissons à Lijiang aux alentours de midi.
+L'avion part peu après 10h, un repas est servis vers la moitié du trajet puis nous atterrissons à Lijiang aux alentours de midi.
 
 <style>
     .image-gallery { column-count: 4; }
@@ -77,12 +77,27 @@ Nous faisons le tour puis prenons un chemin qui s'enfonce dans la forêt, nous y
 
 En revenant au village nous croisons bon nombre de touristes chinois qui s'abritent comme ils le peuvent, vêtus de leur protèges chaussures et imperméables jetables transparent qui leurs donnent un air d'adepte du Ku KLux Klan avec leurs capuches pointues.
 Nous attendons le bus au niveau du parking dans un bâtiment racontant l'histoire de la région, puis finissons par rentrée à l'auberge. 
-Le reste de la journée sera dédié à sècher nos vêtements et à nous préparer pour le départ vers les gorges.
+Le reste de la journée sera dédié à sécher nos vêtements et à nous préparer pour le départ vers les gorges.
 Nous finirons dans le centre commercial visité précédemment pour manger dans le food court (prix très abordables, les nouilles sont faites sur place). 
 
 ### Jour 19 - Lijiang - Gorges du saut du tigre
 
-TODO.
+Le réveil sonne autour de 7h, la pluie est tombée en continue toute la nuit, nous nous préparons, déposons nos bagages à l'acceuil, et quittons la guest house vers 8h40 pour nous diriger vers la gare routière située à quelques rues au sud de la vieille ville ([25, Kangzhong Road, Gucheng District, Lijiang](https://maps.app.goo.gl/ytDs2bx83DJrMq1M7)).
+Pour le bus, il faut idéalement effectuer la réservation une semaine à l'avance via les applications de transport intégrées à WeChat, et surveiller ensuite si les horaires sont maintenus, ou si des places se libèrent sur d'autres horaires.
+Le bus part aux alentours de 9h30, pour un trajet qui durera 3h.
+
+TODO: ajouter photos.
+
+Nous arrivons vers 12h au début des gorges, le bus est immobilisé dans le trafic car l'accès aux gorges est fermé dû à la pluie incessante et aux éboulements que cela a créé.
+Le chauffeur du bus nous indique qu'il est le seul à pouvoir passer, car son trajet finis à la fin des gorges (au niveau de la fameuse Tina's guest house), pour ramener ceux qui quittent les gorges.
+On nous informe également que nous ne pourrons être déposé au début des gorges, car le chauffeur a interdiction de déposer des personnes qui pourraient entreprendre le sentier des gorges vis à vis de la météo de ces derniers jours.
+Pour contourner l'interdiction, le chauffeur nous déposera quelques kilomètres plus loins, après le pont nouvellement construis, pour faire croire que nous étions déjà engagé avant la mise en place de la fermeture.
+
+TODO: ajouter photos.
+
+A la descente du bus nous sommes assez confiants, le ciel est couvert mais laisse entrevoir quelques éclaircies.
+La montée vers le sentier s'effectue assez rapidement puisque la route, bien que fortement inclinée par moment, est bétonnée.
+Peu après 13h nous arrivons au niveau du sentier, la boutique située à proximité est fermée, et une pluie fine commence à tomber.
 
 ### Jour 20 - Gorges du saut du tigre - Lijiang - Dali
 
