@@ -98,6 +98,27 @@ TODO: ajouter photos.
 A la descente du bus nous sommes assez confiants, le ciel est couvert mais laisse entrevoir quelques éclaircies.
 La montée vers le sentier s'effectue assez rapidement puisque la route, bien que fortement inclinée par moment, est bétonnée.
 Peu après 13h nous arrivons au niveau du sentier, la boutique située à proximité est fermée, et une pluie fine commence à tomber.
+Au bout d'une centaine de mètres nous tombons sur des vendeurs ambulants ainsi qu'un muletier proposant ses services.
+
+La pluie commence à tomber de manière continue, j'en profite pour revêtir mon imperméable.
+A ce moment de la randonnée nous savons que nous sommes proche des terribles lacets (28 bends) et que la suite va s'annoncer compliquée.
+On doit avancer car nous faisons le sentier des gorges sur la journée et qu'il reste 14km avant d'arriver à la Tina's guest house.
+
+Les lacets arrivent au bout de quelques dizaines de mètres, et comme attendu, le sentier c'est transformé en petit ruisseau.
+Dès ce moment, on passe en pilotage automatique, on grimpe sans réfléchir.
+Dans la montée, un groupe de jeunes chinois armés de leurs ponchos et protège chaussures jetables se demandent comment on peut aller aussi vite (la réponse étant: Sportiva GTX 4 mid).
+
+La vitesse a cependant un coup, une fois les lacets passés, j'enlève immédiatement mon imperméable car des filets de sueurs s'échappent littéralement de mes manches (ne jamais croire q'un imperméable peut être respirant, même si il est de marque et réputé pour... comme le Patagonia Torrentshell).
+La suite du trajet se fera avec l'imperméable protégeant le sac et le parapluie à la main pour les moments les plus intenses.
+Après la pause hydratation et fruits, nous rencontrons de nouveau le groupe de chinois que nous avons passé dans la montée.
+Ces derniers nous demandent d'où nous venons et nous expliquent qu'ils font le chemin sur deux jours.
+
+Peu après nous arrivons au niveau d'un abris où une minuscule boutique est installée, avec son point de vue payant...
+Cela fait maintenant un pu plus d'une heure que nous sommes sur le sentier et que nous n'avons rien manger de consistant depuis notre départ de Lijiang, donc nous faisons halte pour manger un peu plus.
+Il y a toujours autant d'humidité mais les nuages laissent entrevoir davantage de pics.
+
+TODO: ajouter photos.
+
 
 ### Jour 20 - Gorges du saut du tigre - Lijiang - Dali
 
