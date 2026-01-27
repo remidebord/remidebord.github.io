@@ -95,4 +95,4 @@ void loop() {
 
 ### Results
 
-![console](../uploads/thermistor_results.PNG)
+[![console](../../../uploads/thermistor_results.PNG)](../../../uploads/thermistor_results.PNG)

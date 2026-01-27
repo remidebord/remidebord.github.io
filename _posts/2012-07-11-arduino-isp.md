@@ -9,7 +9,7 @@ Program an Arduino is very simple, you don't need any AVR programmer because the
 
 ### Schematic
 
-![arduino isp](../uploads/BreadboardAVR.png)
+[![arduino isp](../../../uploads/BreadboardAVR.png)](../../../uploads/BreadboardAVR.png)
 
 Note: In fact the ISP programming use SPI pins of the ATmega and realise a BitBang programming.
 
