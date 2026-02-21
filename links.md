@@ -190,6 +190,7 @@ permalink: /links/
 [Kevin Rye](https://kevinrye.net/) (R2D2)  
 [Kevin Hartzell](https://matthartzell.blogspot.com/2014/06/lijiang-to-lugu-lake-bike-ride.html?view=sidebar)  
 [Tix le geek](https://tixlegeek.io/)  
+[Yannick Guern - Akanoa](https://lafor.ge/)
 
 ### Software development
 
