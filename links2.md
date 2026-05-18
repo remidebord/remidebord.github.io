@@ -6,9 +6,8 @@ exclude_from_search: true
 ---
 
 <ul id="lobf">
-	<li>aHR0cHM6Ly93d3cud2F3YWNpdHkudGlwcy8=</li>
-	<li>aHR0cHM6Ly93d3cuZXh0cmVtZS1kb3duLmZpdC8=</li>
-	<li>aHR0cHM6Ly9oeWRyYWNrZXIuY29tLw==</li>
+	<li>aHR0cHM6Ly93d3cud2F3YWNpdHkud2luLw==</li>
+	<li>aHR0cHM6Ly93d3cuZXh0cmVtZS1kb3duLndpbi8=</li>
 	<li>aHR0cHM6Ly90ZWxlY2hhcmdlci1qZXV4cGMuZnIv</li>
 	<li>aHR0cHM6Ly90aGVwaXJhdGViYXkub3JnL2luZGV4Lmh0bWw=</li>
 	<li>aHR0cHM6Ly9idDRncHJ4LmNvbS8=</li>
